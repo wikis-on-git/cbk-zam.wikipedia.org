@@ -1,7 +1,5 @@
-<!-- Favor no mas pone atencion con el maga "tags" na Ingles. -->
-
-<!-- El principio del seccion cabeza -->
-
+<!-- POR FAVOR NO MAS PONE ATENCION CON EL MAGA COMO SE LLAMA 'TAGS' NA INGLES. -->
+<!-- EL PRINCIPIO DEL SECCION CABEZA -->
 {|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
 |style="width:56%;color:#000"|
 {|style="width:280px;border:solid 0px;background:none"
@@ -10,9 +8,7 @@
 <div style="font-size:150%;border:none;margin: 0;padding:.1em;color:#000"><div style="font-size:150%">¡[[Bienvenidos]] <div style="font-size:50%">na [[Wikipedia]] en<div style="font-size:125%">[[Chavacano]] de [[Ciudad de Zamboanga|Zamboanga]], </div>
 <div style="top:+0.2em;font-size:65%">el [[libre]] enciclopedia que [[Introduccion|masquen quien hay puede revisa]].</div>
 |}
-
-<!-- El Maga Portada -->
-
+<!-- EL MAGA PORTADA -->
 |style="width:11%;font-size:85%;color:#000"|
 *[[Portada:Artes|El Artes]]
 *[[Portada:Biografia|Biografia]]
@@ -26,17 +22,14 @@
 *[[Portada:Tecnologia|Tecnologia]]
 *[[Portada]]
 |}
-
-<!-- Fin Del Maga Portada -->
-
+<!-- EL FIN DEL MAGA PORTADA -->
 {|style="width:100%;background:none;margin:-.8em 0 -.7em 0"
 |style="font-size:70%;text-align:left;white-space:nowrap;color:#000"|[[Acerca Wikipedia]] '''·''' [[Busqueda]] '''·''' [[Guia]] '''·''' [[Maga Pregunta]] '''·''' [[Libro De Visita]] '''·''' [[Contacto]] '''·''' [[Ayuda]]
 |style="font-size:70%;padding:10px 0;margin:0px;text-align:right;white-space:nowrap;color:#000"|
 [[Maga Categorias]] '''·''' [[Maga Escogido Articulo]]
 |}
-
-<!-- El Principio - Cuerpo Del Primero Pagina -->
-
+<!-- EL FIN DEL CABEZA -->
+<!-- EL PRINCIPIO - CUERPO DEL PRIMERO PAGINA -->
 {| width=100% border="0" cellpadding="2" cellspacing="2" width=100% 
 | width=80% valign="top" |
 {| width=100%
@@ -129,6 +122,8 @@ Año [[1998]] cuando con Arroyo ya electa como vice-presidenta de presidente Jos
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" |'''Indexo'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+<!-- FIN DEL CUERPO -->
+<!-- EL PRINCIPIO DEL RABO -->
 {{Indexo}}
 |}
 
@@ -137,40 +132,40 @@ Año [[1998]] cuando con Arroyo ya electa como vice-presidenta de presidente Jos
 ----
 
 {{WikipediaOtro}}
-<!--Template:WikipediaOtro-->
+<!-- Template:WikipediaOtro -->
 
 '''Maga Hermana Proyecto'''
 
 ----
 
 {{WikipediaHermana}}
-<!--Template:WikipediaHermana-->
+<!-- Template:WikipediaHermana -->
 
 '''Wikipedia Na Otro Maga Lenguaje'''
 
 ----
 
 {{Wikipedialenguaje}}
-<!--Template:Wikipedialenguaje-->
+<!-- Template:Wikipedialenguaje -->
 
 '''Wikipedia Na Otro Maga Lenguaje De Filipinas'''
 
 ----
 
 {{Wikipedialenguajepinoy}}
-<!--Template:Wikipedialenguajepinoy-->
+<!-- Template:Wikipedialenguajepinoy -->
 
 '''Wikipedia Na Otro Maga Lenguaje Familiar Na Español'''
 
 ----
 
 {{Wikipedialenguajespanol}}
-<!--Template:Wikipedialenguajespanol-->
+<!-- Template:Wikipedialenguajespanol -->
 
 ----
 
 <br>
 
-<center>Wikipedia en Chavacano de Zamboanga - Dedicado por el propagacion y preservacion de la lenguaje Zamboangueño o el Chavacano de Zamboanga y por bella Zamboanga Hermosa - Año 2006</center>
+<center>Wikipedia en Chavacano de Zamboanga - Dedicado por el propagacion y preservacion de el lenguaje Zamboangueño o el Chavacano de Zamboanga y por bella Zamboanga Hermosa - Año 2006</center>
 
 {{primerpaginainterwiki}}
