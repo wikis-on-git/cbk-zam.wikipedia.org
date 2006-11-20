@@ -40,7 +40,7 @@
 |}
 |-
 |
-{| width=100%  heigh=100% cellpadding="2" cellspacing="5" valign="top" style="border:2px solid #e1eaee;background:#EAF5FB;"
+{| width=100%  heigh=100% cellpadding="2" cellspacing="5" valign="top" style="border:2px solid #e1eaee;background: ;"
 ! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left"  | Escogido Articulo Del Mes
 |-
 |
@@ -71,31 +71,31 @@ Año [[1998]] cuando con Arroyo ya electa como vice-presidenta de presidente Jos
 |}
 |}
 | width=50% valign="top" rowspan=3 |
-{| width=100% cellpadding="2" cellspacing="5" valign="top" style="border:2px solid #eeeed1;background:#fffff3;"
+{| width=100% cellpadding="2" cellspacing="5" valign="top" style="border:2px solid #e1eaee;background: ;"
 |-
 |
-{|width=100% style="background:#F7F4DD;"
+{|width=100% style="background:#e1eaee;"
 |-
 | align=center style=font-size:95%; colspan=3 |Este Wikipedia tiene ahora
 |-
 | |
-! bgcolor=#fffffa |
+! bgcolor=#e1eaee |
 | |
 |-
 | |
-! align=center style=font-size:120%; bgcolor=#fffffa|{{NUMBEROFARTICLES}}
+! align=center style=font-size:120%; bgcolor= |{{NUMBEROFARTICLES}}
 | |
 |-
 | |
-! bgcolor=#fffffa |
+! bgcolor=#e1eaee |
 | |
 |-
 | align=center style=font-size:95%; colspan=3 | maga artículo en Chavacano.
 |}
 |-
-! style="background:#eeeed1;" | Este dia es [[{{CURRENTDAYNAME}}]], <br>[[{{CURRENTDAY}} de {{CURRENTMONTHNAME}}]] año [[{{CURRENTYEAR}}]].
+! style="background:#e1eaee;" | Este dia es [[{{CURRENTDAYNAME}}]], <br>[[{{CURRENTDAY}} de {{CURRENTMONTHNAME}}]] año [[{{CURRENTYEAR}}]].
 |-
-! style="background:#eeeed1; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #ddddc0; text-align:center" | Maga Articulo
+! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #e1eaee; text-align:center" | Maga Articulo
 |-
 |
 *[[Iglesia Romano Catolico]]
@@ -118,10 +118,17 @@ Año [[1998]] cuando con Arroyo ya electa como vice-presidenta de presidente Jos
 *[[Pilar]]
 *[[España]]
 |-
-! style="background:#eeeed1;font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #ddddc0; text-align:center" | [[El Archivo]]
+! style="background:#e1eaee;font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #e1eaee; text-align:center" | [[El Archivo]]
 |-
 |-
-! style="background:#eeeed1;font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #ddddc0; text-align:center" | [[Wikipedia:Petición Por El Traducción De Maga Articulo|Es Un Proyecto: Petición Por El Traducción De Maga Articulo]]
+! style="background:#e1eaee;font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #e1eaee; text-align:center" | [[Wikipedia:Petición Por El Traducción De Maga Articulo|Es Un Proyecto: Petición Por El Traducción De Maga Articulo]]
+|-
+|-
+! style="background:#e1eaee;font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #e1eaee; text-align:center" | Palabra Chavacano Del Dia
+|-
+|
+{{Chavacanodedia}}
+|-
 |-
 |}
 |}
