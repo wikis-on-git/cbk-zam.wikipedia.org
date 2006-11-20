@@ -76,7 +76,7 @@ Año [[1998]] cuando con Arroyo ya electa como vice-presidenta de presidente Jos
 |
 {|width=100% style="background:#e1eaee;"
 |-
-| align=center style=font-size:95%; colspan=3 |Este Wikipedia tiene ahora
+! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif;" | Este Wikipedia tiene ahora
 |-
 | |
 ! bgcolor=#e1eaee |
@@ -84,20 +84,21 @@ Año [[1998]] cuando con Arroyo ya electa como vice-presidenta de presidente Jos
 |-
 | |
 ! align=center style=font-size:120%; bgcolor= |{{NUMBEROFARTICLES}}
+|-
 | |
 |-
 | |
 ! bgcolor=#e1eaee |
 | |
 |-
-| align=center style=font-size:95%; colspan=3 | maga artículo en Chavacano.
+! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif;" | maga artículo en Chavacano.
 |}
 |-
-! style="background:#e1eaee;" | Este dia es [[{{CURRENTDAYNAME}}]], <br>[[{{CURRENTDAY}} de {{CURRENTMONTHNAME}}]] año [[{{CURRENTYEAR}}]].
+! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif;" | Este dia es [[{{CURRENTDAYNAME}}]], <br>[[{{CURRENTDAY}} de {{CURRENTMONTHNAME}}]] año [[{{CURRENTYEAR}}]].
 |-
 ! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #e1eaee; text-align:center" | Maga Articulo
 |-
-|
+! style="font-family: Verdana, Arial, Helvetica, sans-serif;"|
 *[[Iglesia Romano Catolico]]
 *[[Filipinas]]
 *[[Chavacano]]
