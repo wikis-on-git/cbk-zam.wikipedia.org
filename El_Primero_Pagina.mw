@@ -126,14 +126,26 @@ Año [[1998]] cuando con Arroyo ya electa como vice-presidenta de presidente Jos
 |}
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |
+<center>Prinsipia Un Articulo</center>
+<inputbox>
+ type=create
+ width=40
+ bgcolor=#f0f0ff
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=
+</inputbox>
+|-
+|}
+{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" |'''Indexo'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
-<!-- FIN DEL CUERPO -->
-<!-- EL PRINCIPIO DEL RABO -->
 {{Indexo}}
 |}
-
+<!-- FIN DEL CUERPO -->
+<!-- EL PRINCIPIO DEL RABO -->
 '''Maga Otro Lugar Na Wikipedia'''
 
 ----
