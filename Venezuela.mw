@@ -324,32 +324,77 @@ En Venezuela existe además un ordenamiento por [[Región Político-Administrati
 {{Estados Federales de la República Bolivariana de Venezuela}}
 
 
-; Distrito Capital
-
-{| style="background:transparent;font-size: 11px"
-| ||'''Nombre''' || '''Capital'''
+<div align=center>
+{| class="toc" cellpadding=0 cellspacing=2 width=600px style="float:center; margin: 0.5em 0.5em 0.5em 1em; padding: 0.5e text-align:left;clear:all; margin-left:3px; font-size:90%"
+|colspan=5 style="background:#black; color:white;" align=center bgcolor="black"|'''División política de Venezuela'''
+|- 
+|colspan=5 align=center|[[Imagen:Venezuela politica copy.png|center|400px]]
+|- 
+| style="background:#e9e9e9;" align=center | '''#'''
+| style="background:#e9e9e9;" align=center | '''Estado'''
+| style="background:#e9e9e9;" align=center | '''Capital'''
+| style="background:#e9e9e9;" align=center | '''Superficie (km²)'''
+| style="background:#e9e9e9;" align=center | '''Población''' 
 |-
-| 24 || '''[[Distrito Capital (Venezuela)|Distrito Capital]]''' || [[Caracas]]</tr>
-|}
-
-[[Image:Venezuela Regiones Administrativas.svg|right|300px]]
-
-
-; Regiones político-administrativas
-
-{| style="background:transparent;font-size: 11px"
-| '''Nombre''' || '''Subregiones'''
+|1||[[Amazonas (estado de Venezuela)|Amazonas]]||[[Puerto Ayacucho]]||align=right|180.145 km²||align=right|138.408 
+|- bgcolor="#f0f0f0"
+|2||[[Anzoátegui]]||[[Barcelona (Venezuela)|Barcelona]]||align=right|43.300 km²||align=right|1.453.274
 |-
-| * | {{legend|#4AC986|'''Los Andes'''}}          || Barinas, Mérida, Táchira, Trujillo y el Municipio Páez de Apure</tr>
-| * | {{legend|#E5B559|'''Capital'''}}         || Miranda, Vargas, Distrito Capital</tr>
-| * | {{legend|#22DAEA|'''Central'''}}         || Aragua, Carabobo, Cojedes</tr>
-| * | {{legend|#FD9F43|'''Centroeste'''}} || Falcón, Lara, Portuguesa, Yaracuy</tr>
-| * | {{legend|#E86565|'''Guayana'''}}         || Bolívar, Amazonas, Delta Amacuro</tr>
-| * | {{legend|#DF75EC|'''Insular'''}}         || Nueva Esparta, Dependencias Federales</tr>
-| * | {{legend|#F3F00C|'''Los Llanos'''}}          || Apure (excluyendo al Municipio Paez), Guárico</tr>
-| * | {{legend|#87D925|'''Noreste'''}}   || Anzoátegui, Monagas, Sucre</tr>
-| * | {{legend|#D00404|'''Zuliana'''}}          || Zulia</tr>
+|3||[[Apure]]||[[San Fernando de Apure]]||align=right|76.500 km²||align=right|462.913
+|- bgcolor="#f0f0f0"
+|4||[[Aragua (estado)|Aragua]]||[[Maracay]]||align=right|7.014 km²||align=right|1.641.334
+|-
+|5||[[Barinas (estado)|Barinas]]||[[Barinas (ciudad)|Barinas]]||align=right|35.200 km²||align=right|740.440
+|- bgcolor="#f0f0f0"
+|6||[[Bolívar (estado)|Bolívar]]||[[Ciudad Bolívar]]||align=right|238.000 km²||align=right|1.505.448
+|-
+|7||[[Carabobo]]||[[Valencia (Venezuela)|Valencia]]||align=right|4.650 km²||align=right|2.191.483
+|- bgcolor="#f0f0f0"
+|8||[[Cojedes]]||[[San Carlos (Venezuela)|San Carlos]]||align=right|14.800 km²||align=right|294.252
+|-
+|9||[[Delta Amacuro]]||[[Tucupita]]||align=right|40.200 km²||align=right|149.130
+|- bgcolor="#f0f0f0"
+|10||[[Falcón]]||[[Coro (Venezuela)|Coro]]||align=right|24.800 km²||align=right|885.374
+|-
+|11||[[Guárico]]||[[San Juan de Los Morros]]||align=right|64.986 km²||align=right|730.922
+|- bgcolor="#f0f0f0"
+|12||[[Lara]]||[[Barquisimeto]]||align=right|19.800 km²||align=right|1.766.030
+|-
+|13||[[Estado Mérida (Venezuela)|Mérida]]||[[Mérida (Venezuela)|Mérida]]||align=right|11.300 km²||align=right|827.735
+|- bgcolor="#f0f0f0"
+|14||[[Estado Miranda|Miranda]]||[[Los Teques]]||align=right|7,950 km²||align=right|2.812.317
+|-
+|15||[[Monagas]]||[[Maturin]]||align=right|28 900 km²||align=right|837.379 
+|- bgcolor="#f0f0f0"
+|16||[[Nueva Esparta]]||[[La Asunción]]||align=right|1.150 km²||align=right|429.946
+|-
+|17||[[Portuguesa]]||[[Guanare]]||align=right|15.200 km²||align=right|856.499
+|- bgcolor="#f0f0f0"
+|18||[[Sucre (estado)|Sucre]]||[[Cumaná]]||align=right|11.800 km²||align=right|902.703 
+|-
+|19||[[Táchira]]||[[San Cristóbal (Venezuela)|San Cristóbal]]||align=right|11.100 km²||align=right|1.155.864
+|- bgcolor="#f0f0f0"
+|20||[[Trujillo (estado)|Trujillo]]||[[Trujillo (capital)|Trujillo]]||align=right|7.400 km²||align=right|698.264
+|-
+|21||[[Vargas]]||[[La Guaira]]||align=right|1.496 km²||align=right|330.578
+|- bgcolor="#f0f0f0"
+|22||[[Yaracuy]]||[[San Felipe (Venezuela)|San Felipe]]||align=right|7.100 km²||align=right|585.673
+|- 
+|23||[[Zulia]]||[[Maracaibo]]||align=right|63.100 km²||align=right|3.553.354
+|- bgcolor="#f0f0f0"
+|24||[[Distrito Capital (Venezuela)|Distrito Capital]]||[[Caracas]]||align=right|433 km²||align=right|2.079.596
+|- 
+|25||[[Dependencias Federales Venezolanas|Dependencias Federales]]<ref>Las [[Dependencias Federales Venezolanas|Dependencias Federales]] son todas las islas e islotes no integradas al territorio de un Estado.</ref>||n/a||align=right|342 km²||align=right|2.245
+|-
+| - ||[[Guayana Esequiba]]<ref>La [[Guayana Esequiba]] está en reclamación con Guyana, sujeto al Acuerdo de Ginebra de 1966</ref>||n/a||align=right|159.500 km²||align=right|102.000
+|- bgcolor="#f0f0f0"
+| -
+|'''Venezuela''' 
+| '''[[Caracas]]''' 
+| align="right" |'''916.445 ''' 
+| align="right" |'''27.031.161'''   
 |}
+</div>
 
 === Disputa limítrofe con Guyana ===
 
