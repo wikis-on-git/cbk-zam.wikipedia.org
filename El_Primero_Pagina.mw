@@ -64,17 +64,17 @@ Del Septiembre 27, 2007 con Madonna ya nomina por su inducción na [[Rock and Ra
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |
 <center>'''Entra un Nombre de Articulo y Crea, Prinsipia o Revisa Con El Articulo'''</center>
+|-
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 <inputbox>
  type=create
- width=40
- bgcolor=#f0f0ff
+ width=50
+ bgcolor=#ffffff
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=
 </inputbox>
-|-
 |}
-
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" |'''Indice'''
 |-
