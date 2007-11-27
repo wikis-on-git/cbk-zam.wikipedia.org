@@ -62,10 +62,28 @@ Del Septiembre 27, 2007 con Madonna ya nomina por su inducción na [[Rock and Ra
 <br>
 
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" | [[Image:Nuvola_filesystems_services-20px.png]] '''Escogido Retrato Desde [[:commons:|Wikimedia Comon]]'''
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" | [[Image:Emblem-camera.svg|20px]] '''Escogido Retrato Desde [[:commons:|Wikimedia Comon]]'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 <center>{{EscogidoRetrato}}</center>
+|}
+{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" | [[Image:Gnome globe current event.svg|20px]] '''Noticias Desde [[:Wikinews:|Wiki-Noticia]]'''
+|-
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+<center>{{NoticiaPrimerPagina}}</center>
+|}
+{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" | [[Image:Nuvola apps date.png|20px]] '''Este Dia Na Historia'''
+|-
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+<center>{{EsteDiaPrimerPagina}}</center>
+|}
+{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" | [[Image:QA icon.svg|22px]] '''¿Sabe tu que...'''
+|-
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+<center>{{SabeTuQue}}</center>
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |
