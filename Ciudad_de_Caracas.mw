@@ -34,7 +34,7 @@
 | colspan=3 align="center" style="border-style: solid none solid; background: #f0f0f0"|{{{Nombre}}} Ayuntamiento
 |-
 | align="center" style="border-style: none none solid; background: #f0f0f0"|Dirección
-| colspan=3 align="right" style="border-style: none none none solid"|&#12306;{{{CodigoPostalAyuntamiento}}}
+| colspan=3 align="right" style="border-style: none none none solid"|〒{{{CodigoPostalAyuntamiento}}}
 | align="right" valign="bottom" style="border-style: none; padding-bottom: 0px"|
 |-
 |
@@ -476,6 +476,7 @@ Caracas has been the birthplace of many politicians and artists that notably sha
 [[ca:Caracas]]
 [[co:Caracas]]
 [[cs:Caracas]]
+[[cy:Caracas]]
 [[da:Caracas]]
 [[de:Caracas]]
 [[el:Καράκας]]
