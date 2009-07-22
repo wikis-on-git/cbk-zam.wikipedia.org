@@ -42,11 +42,11 @@
 |-
 |
 {| width=100%  heigh=100% cellpadding="2" cellspacing="5" valign="top" style="border:2px solid #ccc;background: ;"
-! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left"  | [[Image:Nuvola_filesystems_services-20px.png]] Escogido Articulo Del Mes
+! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center"  | [[Image:Nuvola_filesystems_services-20px.png]] Escogido Articulo Del Mes
 |-
 |
 <br>
-<b><center><font size=4>[[Comic Relief (banda)]]</font></center></b>
+<b><font size=4>[[Comic Relief (banda)]]</font></b>
 <br>
 [[Image:Comic Relief.jpg|right|300px|El Logo De Banda Comic Relief]]
 
@@ -75,37 +75,38 @@ El banda tiene ya ellos primer placa con el titulo "Sick!!! calor con calor se p
 <br>
 
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" | [[Image:Emblem-camera.svg|20px]] '''Escogido Retrato Desde [[:commons:|Wikimedia Comon]]'''
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" | [[Image:Emblem-camera.svg|20px]] '''Escogido Retrato Desde [[:commons:|Wikimedia Comon]]'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 <center>{{EscogidoRetrato}}</center>
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" | [[Image:Gnome globe current event.svg|20px]] '''Maga Noticia Desde [[:Wikinews:|Wiki-Noticia]]'''
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" | [[Image:Gnome globe current event.svg|20px]] '''Maga Noticia Desde [[:Wikinews:|Wiki-Noticia]]'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 <center>{{NoticiaPrimerPagina}}</center>
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" | [[Image:Nuvola apps date.png|20px]] '''Este Dia Na Historia'''
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" | [[Image:Nuvola apps date.png|20px]] '''Este Dia Na Historia'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 <center>{{EsteDiaPrimerPagina}}</center>
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" | [[Image:QA icon.svg|22px]] '''¿Sabe ba tu que...'''
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" | [[Image:QA icon.svg|22px]] '''¿Sabe ba tu que...'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 <center>{{SabeTuQue}}</center>
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |
-<center>'''Entra un Nombre de Articulo y Crea, Prinsipia o Revisa Con El Articulo'''</center>
+'''Entra un Nombre de Articulo y Crea, Prinsipia o Revisa Con El Articulo'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 <inputbox>
+ buttonlabel=Anda Pronto!
  type=create
- width=50
+ width=75
  bgcolor=#ffffff
  preload=Template:Standard content for new page
  editintro=Template:Instructions
