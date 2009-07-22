@@ -84,13 +84,13 @@ El banda tiene ya ellos primer placa con el titulo "Sick!!! calor con calor se p
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" | [[Image:Gnome globe current event.svg|20px]] '''Maga Noticia Desde [[:Wikinews:|Wiki-Noticia]]'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
-<center>{{NoticiaPrimerPagina}}</center>
+<center>{{Wiki-Noticia}}</center>
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" | [[Image:Nuvola apps date.png|20px]] '''Este Dia Na Historia'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
-<center>{{EsteDiaPrimerPagina}}</center>
+<center>{{EsteDia}}</center>
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" | [[Image:QA icon.svg|22px]] '''¿Sabe ba tu que...'''
@@ -103,6 +103,7 @@ El banda tiene ya ellos primer placa con el titulo "Sick!!! calor con calor se p
 '''Entra un Nombre de Articulo y Crea, Prinsipia o Revisa Con El Articulo'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+<br>
 <inputbox>
  buttonlabel=Anda Pronto!
  type=create
@@ -112,27 +113,28 @@ El banda tiene ya ellos primer placa con el titulo "Sick!!! calor con calor se p
  editintro=Template:Instructions
  default=
 </inputbox>
+<br>
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" |'''Indice'''
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |'''Indice'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 {{Indexo}}
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" |'''Maga Otro Lugar Na Wikipedia'''
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |'''Maga Otro Lugar Na Wikipedia'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 {{WikipediaOtro}}
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" |'''Maga Hermana Proyecto'''
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |'''Maga Hermana Proyecto'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 {{WikipediaHermana}}
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left" |'''Wikipedia Na Otro Maga Lenguaje Del Mundo'''
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |'''Wikipedia Na Otro Maga Lenguaje Del Mundo'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 {{Wikipedialenguaje}}
