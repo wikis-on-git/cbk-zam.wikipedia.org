@@ -214,16 +214,16 @@ Además de los que desaguan en el Manzanares, existen otros pequeños cursos flu
 === Clima ===
 El [[clima]] de Madrid es [[Clima mediterráneo|mediterráneo]] [[Clima continental|continentalizado]] y está muy influido por las condiciones urbanas. 
 
-Los [[invierno]]s son fríos, con temperaturas inferiores a los 6 [[&deg;C]], heladas nocturnas y nevadas ocasionales. Los [[verano]]s son calurosos con medias en torno a los 24[[&deg;C]] en [[julio]] y [[agosto]] y con máximas que a veces superan los 35[[&deg;C]]. La oscilación diaria es importante en la periferia urbana, pero se ve reducida en el centro de la ciudad por el efecto antrópico. Las precipitaciones anuales son inferiores a 400 mm y se concentran en las estaciones de [[otoño]] y [[primavera]], cuando el clima es más agradable, siendo menos frecuentes en invierno<ref>[http://www.inm.es/ Instituto Nacional de Meteorología] – Información climatológica. Extracto de la publicación extracto de la publicación ''Guía resumida del clima en España 1971-2000''.</ref>
+Los [[invierno]]s son fríos, con temperaturas inferiores a los 6 [[°C]], heladas nocturnas y nevadas ocasionales. Los [[verano]]s son calurosos con medias en torno a los 24[[°C]] en [[julio]] y [[agosto]] y con máximas que a veces superan los 35[[°C]]. La oscilación diaria es importante en la periferia urbana, pero se ve reducida en el centro de la ciudad por el efecto antrópico. Las precipitaciones anuales son inferiores a 400 mm y se concentran en las estaciones de [[otoño]] y [[primavera]], cuando el clima es más agradable, siendo menos frecuentes en invierno<ref>[http://www.inm.es/ Instituto Nacional de Meteorología] – Información climatológica. Extracto de la publicación extracto de la publicación ''Guía resumida del clima en España 1971-2000''.</ref>
 [[Archivo:Clima Madrid-Retiro (España).PNG|thumb|200px|Climograma de Madrid (Retiro)]]
 {| {{tablabonita}} align="left"
 |+ <big>'''Observatorio del Parque del Retiro</big>
 |- style="background:#efefef;"
 ! 1971-2000 !! ene !! feb !! mar !! abr !! may !! jun !! jul !! ago !! sep !! oct !! nov !! dic !! ''Total''
 |-
-| Temperatura <br /> máxima (ºC)||9,7||12,0||15,7||17,5||21,4||26,9||31,2||30,7||26,0||19,0||13,4||10,1||''19,4''
+| Temperatura <br /> máxima (°C)||9,7||12,0||15,7||17,5||21,4||26,9||31,2||30,7||26,0||19,0||13,4||10,1||''19,4''
 |-
-| Temperatura <br /> mínima (ºC)||2,6||3,7||5,6||7,2||10,7||15,1||18,4||18,2||15,0||10,2||6,0||3,8||''9,7''
+| Temperatura <br /> mínima (°C)||2,6||3,7||5,6||7,2||10,7||15,1||18,4||18,2||15,0||10,2||6,0||3,8||''9,7''
 |-
 | Precipitaciones (mm) ||37||35||26||47||52||25||15||10||28||49||56||56||''436''
 |}
@@ -233,9 +233,9 @@ Los [[invierno]]s son fríos, con temperaturas inferiores a los 6 [[&deg;C]], he
 |- style="background:#efefef;"
 ! 1971-2000 !! ene !! feb !! mar !! abr !! may !! jun !! jul !! ago !! sep !! oct !! nov !! dic !! ''Total''
 |-
-| Temperatura <br /> máxima (ºC)||10,6||12,9||16,3||18,0||22,3||28,2||33,0||32,4||27,6||20,6||14,7||11,0||''20,6''
+| Temperatura <br /> máxima (°C)||10,6||12,9||16,3||18,0||22,3||28,2||33,0||32,4||27,6||20,6||14,7||11,0||''20,6''
 |-
-| Temperatura <br /> mínima (ºC)||0,3||1,5||3,2||5,4||8,8||13,0||16,1||16,0||12,7||8,3||3,8||1,8||''7,6''
+| Temperatura <br /> mínima (°C)||0,3||1,5||3,2||5,4||8,8||13,0||16,1||16,0||12,7||8,3||3,8||1,8||''7,6''
 |-
 | Precipitaciones (mm) ||33||34||23||39||47||26||11||12||24||39||48||48||''386''
 |}
@@ -750,6 +750,7 @@ La ciudad de Madrid participa activamente en la iniciativa de [[hermanamiento de
 [[hi:मैड्रिड]]
 [[hif:Madrid]]
 [[hr:Madrid]]
+[[hsb:Madrid]]
 [[ht:Madrid]]
 [[hu:Madrid]]
 [[hy:Մադրիդ]]
