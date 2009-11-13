@@ -42,13 +42,14 @@
 |-
 |
 {| width=100%  heigh=100% cellpadding="2" cellspacing="5" valign="top" style="border:2px solid #ccc;background: ;"
-! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center"  | [[Image:Nuvola_filesystems_services-20px.png]] Escogido Articulo Del Mes
+! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left"  | [[Image:Nuvola_filesystems_services-20px.png]] Escogido Articulo
 |-
 |
-<br>
-<b><font size=4>[[Madre Teresa]]</font></b>
-<br>
 [[Archivo:MadreTeresa.jpg|thumb|left|250px|Bendita Teresa de Calcutta]]
+
+<br>
+
+<b><center><font size=5>[[Madre Teresa]]</font></center></b>
 
 <br>
 
@@ -72,7 +73,7 @@ En año [[1996]], ya proclama el [[Congreso del Estados Unidos]] que el madre Te
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 <center>{{EscogidoRetrato}}</center>
 |}
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+<!-- {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" | [[Image:Gnome globe current event.svg|20px]] '''Maga Noticia Desde [[:Wikinews:|Wiki-Noticia]]'''
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
@@ -89,7 +90,7 @@ En año [[1996]], ya proclama el [[Congreso del Estados Unidos]] que el madre Te
 |-
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 <center>{{SabeTuQue}}</center>
-|}
+|} -->
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |
 '''Entra un Nombre de Articulo y Crea, Prinsipia o Revisa Con El Articulo'''
