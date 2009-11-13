@@ -152,22 +152,22 @@ En año [[1996]], ya proclama el [[Congreso del Estados Unidos]] que el madre Te
 |
 {|width=100% style="background:#e1eaee;"
 |-
-! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif;" | Tiene ahora [[Special:Statistics|{{NUMBEROFARTICLES}}]] maga articulo en este Wikipedia en Chavacano.
+! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; text-align:center" | Tiene ahora [[Special:Statistics|{{NUMBEROFARTICLES}}]] maga articulo con este Wikipedia en Chavacano.
 |-
-! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif;" | Buenas! Este dia es [[{{CURRENTDAYNAME}}]], <br>[[{{CURRENTDAY}} de {{CURRENTMONTHNAME}}]] año [[{{CURRENTYEAR}}]].
+! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; text-align:center" | Buenas! Este dia es [[{{CURRENTDAYNAME}}]], <br>[[{{CURRENTDAY}} de {{CURRENTMONTHNAME}}]] año [[{{CURRENTYEAR}}]].
 |}
 |-
 ! style="background:#e1eaee;font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #e1eaee; text-align:center" | El Palabra Del Dia:
 |-
 ! style="font-size:90%" | {{Chavacanodeldia}} 
 <hr>
-[[Wikipedia:Palabradeldia|Proyecto de Palabra del Dia]]
+<center>[[Wikipedia:Palabradeldia|Proyecto de Palabra del Dia]]</center>
 |-
 ! style="background:#e1eaee;font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #e1eaee; text-align:center" | El Refran Del Dia:
 |-
 ! style="font-size:90%" | {{Refrandeldia}} 
 <hr>
-[[Wikipedia:Refrandeldia|Proyecto de Refran del Dia]]
+<center>[[Wikipedia:Refrandeldia|Proyecto de Refran del Dia]]</center>
 |-
 ! style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #e1eaee; text-align:center" | Participacion y Comunidad
 |-
