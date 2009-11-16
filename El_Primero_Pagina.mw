@@ -64,12 +64,11 @@ En año [[1996]], ya proclama el [[Congreso del Estados Unidos]] que el madre Te
 <br>
 
 <p align="right">[[Madre Teresa|'''Continua lee o revisa con el articulo...''']]</p>
-|}
 <br>
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" | [[Image:Emblem-camera.svg|20px]] '''Escogido Retrato Desde [[:commons:|Wikimedia Comon]]'''
+{| style="border:1px solid #C7D0F8; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:center" | [[Image:Emblem-camera.svg|20px]] '''Escogido Retrato Desde [[:commons:|Wikimedia Comon]]'''
 |-
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:left; bgcolor="#ffffff" |
 <center>{{EscogidoRetrato}}</center>
 |}
 <!-- {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
@@ -90,11 +89,11 @@ En año [[1996]], ya proclama el [[Congreso del Estados Unidos]] que el madre Te
 | style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
 <center>{{SabeTuQue}}</center>
 |} -->
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |
+{| style="border:1px solid #C7D0F8; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#FFEDCC; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:center" |
 '''Entra un Nombre de Articulo y Crea, Prinsipia o Revisa Con El Articulo'''
 |-
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+| style="background:#FFEDCC; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:left; bgcolor="#FFFFFF" |
 <br>
 <inputbox>
  buttonlabel=Anda Pronto!
@@ -107,40 +106,40 @@ En año [[1996]], ya proclama el [[Congreso del Estados Unidos]] que el madre Te
 </inputbox>
 <br>
 |}
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |'''Indice'''
+{| style="border:1px solid #C7D0F8; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#F2F5FD; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:center" |'''Indice'''
 |-
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+| style="background:#F2F5FD; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:left; bgcolor="#FFFFFF" |
 {{Indexo}}
 |}
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |'''Maga Otro Lugar Na Wikipedia'''
+{| style="border:1px solid #C7D0F8; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#FFE6F9; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:center" |'''Maga Otro Lugar Na Wikipedia'''
 |-
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+| style="background:#FFE6F9; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:left; bgcolor="#FFFFFF" |
 {{WikipediaOtro}}
 |}
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |'''Maga Hermana Proyecto'''
+{| style="border:1px solid #C7D0F8; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#E6F2EF; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:center" |'''Maga Hermana Proyecto'''
 |-
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+| style="background:#E6F2EF; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:left; bgcolor="#FFFFFF" |
 {{WikipediaHermana}}
 |}
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |'''Wikipedia Na Otro Maga Lenguaje Del Mundo'''
+{| style="border:1px solid #C7D0F8; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#E6ECFF; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:center" |'''Wikipedia Na Otro Maga Lenguaje Del Mundo'''
 |-
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+| style="background:#E6ECFF; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:left; bgcolor="#FFFFFF" |
 {{Wikipedialenguaje}}
 |}
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |'''Wikipedia Na Otro Maga Lengaje De Filipinas'''
+{| style="border:1px solid #C7D0F8; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#FFFCE6; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:center" |'''Wikipedia Na Otro Maga Lengaje De Filipinas'''
 |-
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+| style="background:#FFFCE6; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:left; bgcolor="#FFFFFF" |
 {{Wikipedialenguajepinoy}}
 |}
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:center" |'''Wikipedia Na Otro Maga Lenguaje Familiar Na Español'''
+{| style="border:1px solid #C7D0F8; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="background:#F9F9F3; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:center" |'''Wikipedia Na Otro Maga Lenguaje Familiar Na Español'''
 |-
-| style="background:#e1eaee; font-family: Verdana, Arial, Helvetica, sans-serif; border:2px solid #d0d9dd; text-align:left; bgcolor="#FFFFFF" |
+| style="background:#F9F9F3; font-family: Verdana, Arial, Helvetica, sans-serif; border:1px solid #C7D0F8; text-align:left; bgcolor="#FFFFFF" |
 {{Wikipedialenguajespanol}}
 |}
 |-
