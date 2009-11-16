@@ -1,12 +1,12 @@
 <!-- POR FAVOR NO MAS PONE ATENCION CON EL MAGA COMO SE LLAMA 'TAGS' NA INGLES. -->
 <!-- EL PRINCIPIO DEL SECCION CABEZA -->
-{|style="width:100%;background-color:#e1eaee;border:5px solid #d0d9dd"
+{|style="width:100%;background-color:#ccccff;border:3px solid #000066"
 |style="width:50%;color:#000"|
 {|style="width:500px;border:solid 0px;background:none"
 |-
 |[[Image:Wikipe-tan_wearing_baro%27t_saya.png|center|100px]]
 |style="width:500px;text-align:center;white-space:nowrap;color:#000" |
-<div style="font-size:250%;font-family: Verdana, Arial, Helvetica, sans-serif"><b>¡[[Bienvenidos]]</b></div> <div style="font-size:100%;font-family: comic sans ms">a todos na [[Wikipedia]] en</div><div style="font-size:125%;font-family: Verdana, Arial, Helvetica, sans-serif"><b>[[Chavacano]] de [[Ciudad de Zamboanga|Zamboanga]]</b>, </div>
+<div style="font-size:250%;font-family: Verdana, Arial, Helvetica, sans-serif"><b>¡[[Bienvenidos]]</b></div><br><div style="font-size:100%;font-family: comic sans ms">a todos na [[Wikipedia]] en</div><div style="font-size:125%;font-family: Verdana, Arial, Helvetica, sans-serif"><b>[[Chavacano]] de [[Ciudad de Zamboanga|Zamboanga]]</b>, </div>
 <div style="font-size:100%;font-family: comic sans ms">el [[libre]] enciclopedia que [[Introducion|masquen quien hay puede revisa]].</div>
 |[[File:Philippines collaboration.png|right|100px]]
 |
@@ -26,7 +26,9 @@
 *[[Wikipedia:Portal|Portadas]]
 |}
 <!-- EL FIN DEL MAGA PORTADA -->
-{|style="width:100%;background-color:#e1eaee;border:5px solid #d0d9dd"
+
+
+{|style="width:100%;background-color:#ffffff;border:1px solid #000000"
 |style="font-size:90%;font-family: Verdana, Arial, Helvetica, sans-serif;text-align:center;white-space:nowrap;color:#000"|[[Wikipedia:Acerca de|Acerca de este Wikipedia]] '''·''' [[Ayuda:Guia|Guia]] '''·''' [[Wikipedia:Lecciones Chavacano|Lecciones Chavacano]] '''·''' [[Wikipedia:Libro de Maga Visita|Libro de Maga Visita]] '''·''' [[Wikipedia:Embajada|No Hablante Chavacano?]] '''·''' [[Ayuda:Maga Pregunta|Maga Pregunta]] '''·''' [[Ayuda:Ayuda|Ayuda]] '''·''' <b>[[Wikipedia:Tambayan De Los Chavacanos|Tambayan de los Chabacanos]]</b>
 |}
 <!-- EL FIN DEL CABEZA -->
