@@ -1,3 +1,59 @@
+{{Infobox_País
+| nombre_oficial         = República Oriental del Uruguay
+| nombre_común           = Uruguay
+| imagen_bandera         = Flag of Uruguay.svg 
+| imagen_escudo          = Coat_of_arms_of_Uruguay.svg
+| imagen_escudo_tamaño   = 100px
+| imagen_mapa            = URY orthographic.svg
+| lema_nacional          = <!--no poner lema sin aportar referencias, ver discusión-->
+| himno_nacional         = ''[[Himno Nacional de Uruguay]]''
+| archivo_himno_nacional = HimnoNacionalUruguay.ogg
+| capital                = [[Montevideo]][[Archivo:Montevideo Department Coa.png|right|20px]]
+| capital_población      = 1.359.920 ([[2009]])
+| capital_coor_fmt       =
+| capital_coor           = 34_53_S_56_10_W_ 34º 53′ S 56º 10′ O
+| ciudad_más_poblada     = [[Montevideo]][[Archivo:Montevideo Department Coa.png|right|20px]]
+| idioma_oficial         = [[idioma español|Español]]
+| gobierno               = [[República]] ([[Presidencialismo|sistema presidencialista]]) 
+| dirigentes_títulos     = [[Presidente de Uruguay|Presidente]]<br />[[Vicepresidente de Uruguay|Vicepresidente]]
+| dirigentes_nombres     = [[José Mujica]]<br />[[Danilo Astori]]
+| fundación              = [[Independencia]]
+| fundación_hitos        = &nbsp;• [[Declaratoria de la Independencia|Declarada]]<br />&nbsp;• [[Convención Preliminar de Paz (1828)|Reconocida]]
+| fundación_fechas       = Del [[Imperio del Brasil]]<br />[[25 de agosto]] de [[1825]]<br />[[28 de agosto]] de [[1828]]
+| superficie             = 176.215
+| superficie_puesto      = 91
+| superficie_agua        = 1,5%
+| fronteras              = 1.564 [[kilómetro|km]]
+| costas                 = 660 km
+| población              = 3.424.595 ([[2010]]) ([[Instituto Nacional de Estadística (Uruguay)|I.N.E.]])<ref name=ine2010 />
+| población_puesto       = 135
+| población_densidad     = 19,0 
+| PIB_nominal            = [[Dólar estadounidense|USD]] 49.423 millones<ref name=Imf2011>http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=2008&ey=2015&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=60&pr1.y=12&c=298&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=</ref>
+| PIB_nominal_año        = 2011
+| PIB_nominal_puesto     = 78
+| PIB_nominal_per_cápita = [[Dólar estadounidense|USD]] 14.672<ref name=Imf2011/>
+| PIB                    = [[Dólar estadounidense|USD]] 52.111 millones<ref name=Imf2011/>
+| PIB_año                = 2011
+| PIB_puesto             = 86
+| PIB_per_cápita         = [[Dólar estadounidense|USD]] 15.470<ref name=Imf2011/>
+| IDH                    = {{creciente}} 0,783<ref name="IDH">{{cita web|autor=PNUD| url= http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf  | título= "Informe sobre Desarrollo Humano 2011" |editor= hdr.undp.org |ubicación= [[Washington D.C.|Washington]], [[Estados Unidos]]|año = 3 de noviembre de 2011|idioma = español | fechaacceso= 03/11/11|formato= PDF}}</ref>
+| IDH_año                = 2011
+| IDH_puesto             = 48
+| IDH_categoría          = <font color="#009900">'''Alto'''</font> 
+| GINI                   = 42.4 ([[2009]])<ref name = "wb-gini">{{Cita web | url = http://data.worldbank.org/indicator/SI.POV.GINI/countries/UY?display=graph | title = Gini Index |autor= |fecha= |work= |editorial=World Bank |fechaacceso=2 March 2011}}</ref>
+| moneda                 = [[Peso uruguayo|Peso]] ($, <code>[[ISO 4217|UYU]]</code>)
+| gentilicio             = uruguayo/a - oriental
+| horario                = [[UTC]]-3
+| horario_verano         = [[UTC]]-2
+| cctld                  = [[.uy]]
+| matrícula_avión        = CX
+| código_telefónico      = 598
+| prefijo_radiofónico    = CVA-CXZ
+| código_ISO             = 858 / URY / UY
+| miembro_de             = [[Organización de las Naciones Unidas|ONU]], [[Organización de los Estados Americanos|OEA]], [[Mercosur]], [[Unión de Naciones Suramericanas|UNASUR]], [[Grupo de Río]], [[Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura|OEI]], [[Grupo de los 77|G77]], [[Interpol]], [[Organismo Internacional de Energía Atómica|OIEA]], [[Organización para la Alimentación y la Agricultura|FAO]], [[Fondo Internacional de Desarrollo Agrícola|IFAD]], [[Organización de Aviación Civil Internacional|OACI]], [[Organización Mundial de la Salud|OMS]], [[Organización de las Naciones Unidas para el Desarrollo Industrial|ONUDI]], [[Organización Internacional del Trabajo|OIT]], [[Organización Mundial del Comercio|OMC]], [[Organización Marítima Internacional|OMI]], [[Organización Meteorológica Mundial|OMM]], [[Fondo Monetario Internacional|FMI]], [[Unión Internacional de Telecomunicaciones|ITU]], [[Conferencia de las Naciones Unidas sobre Comercio y Desarrollo|UNCTAD]], [[Unesco]], [[Unión Postal Universal|UPU]], [[Organización Mundial del Turismo|WTO]], [[Asociación de Estados Iberoamericanos para el Desarrollo de las Bibliotecas Nacionales de Iberoamérica|ABINIA]], [[Tratado de Tlatelolco|OPANAL]], [[Banco Interamericano de Desarrollo|BID]], [[Organización Internacional para la Estandarización|ISO]], [[Fondo Latinoamericano de Reservas|FLAR]], [[Unión Latina]], [[Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja|FICR]].
+| notas                 =
+}}
+
 El República Oriental del Uruguay es un nación na este de [[America]], que limita na este y norte con [[brasil]], na oeste con [[Argentina]] , y sur [[océano atlántico]].
 
 El Uruguay viven 3,5 millones, es un miembro del [[mercosur]]
@@ -55,6 +111,9 @@ Capital, [[Montevideo ciudad]], superficie , 176220 km2.
 == Historia ==
 
 Antes de que portugueses y españoles exploraren ,Uruguay estaba habitao por indios Charruas ,el primer asentamiento europeo fue en 1527 fundado por Sebastian Gaboto , se hizo independiente en 1828.
+
+== Referencias ==
+<references/>
 
 === Enlaces gubernamentales ===
 * [http://portal.gub.uy/ Portal del Estado Uruguayo]
