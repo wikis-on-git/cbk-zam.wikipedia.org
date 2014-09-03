@@ -1,0 +1,83 @@
+{{Stub}}
+'''Paramore''' es un maga banda de musica [[alt rock]] y [[pop punk]] que ay fundá en el [[2004]] y los maga miembro actual del banda son: [[Hayley Williams]], </br>[[Jeremy Davis]] & [[Taylor York]].
+
+;Maga timeline
+<timeline>
+ImageSize = width:1000 height:300
+PlotArea = left:100 bottom:60 top:0 right:50
+Alignbars = justify
+DateFormat  = dd/mm/yyyy
+Period = from:01/10/2004 till:31/12/2014
+TimeAxis = orientation:horizontal format:yyyy
+
+Colors =
+  id:vocals    value:red         legend:Lead_vocals,_keyboards,_piano
+  id:bass      value:blue        legend:Bass
+  id:drums     value:orange      legend:Drums
+  id:lguitar   value:green       legend:Lead_guitar
+  id:rguitar   value:brightgreen legend:Rhythm_guitar
+  id:Lines     value:black       legend:Studio_albums
+ 
+Legend = orientation:horizontal position:bottom
+
+ScaleMajor = increment:1 start:2005
+
+BarData =
+
+  bar:Hayley text:"Hayley Williams"
+  bar:Josh   text:"Josh Farro"
+  bar:Zac    text:"Zac Farro"
+  bar:Jeremy text:"Jeremy Davis"
+  bar:John   text:"John Hembree"
+  bar:Jason  text:"Jason Bynum"
+  bar:Hunter text:"Hunter Lamb"
+  bar:Taylor text:"Taylor York"
+
+PlotData=
+
+  width:10 textcolor:black align:left anchor:from shift:(10,-4)
+  bar:Hayley from:01/10/2004 till:end        color:vocals
+  bar:Josh   from:01/10/2004 till:18/12/2010 color:lguitar
+  bar:Zac    from:01/10/2004 till:18/12/2010 color:drums
+  bar:Jeremy from:01/10/2004 till:03/03/2005 color:bass
+  bar:John   from:03/03/2005 till:01/08/2005 color:bass
+  bar:Jeremy from:01/08/2005 till:end        color:bass
+  bar:Jason  from:01/10/2004 till:01/10/2005 color:rguitar
+  bar:Hunter from:01/10/2005 till:01/07/2007 color:rguitar
+  bar:Taylor from:01/07/2007 till:18/12/2010 color:rguitar
+  bar:Taylor from:18/12/2010 till:end        color:rguitar width:3
+  bar:Taylor from:18/12/2010 till:end        color:lguitar 
+LineData =
+
+  at:27/07/2005 color:black layer:back
+  at:12/06/2007 color:black layer:back
+  at:29/09/2009 color:black layer:back
+  at:09/04/2013 color:black layer:back
+
+</timeline>
+
+== Maga discografia ==
+;Album de estudio
+* ''[[All We Know Is Falling]]'' ([[2005]])
+* ''[[Riot!]]'' ([[2007]])
+* ''[[Brand New Eyes]]'' ([[2009]])
+* ''[[Paramore (album)|Paramore]]'' ([[2013]])
+
+;Other works
+* Live in the UK 2008 ([[2008]])
+* The Final Riot!
+* The Summer Tic EP ([[2006]])
+* 2010 Summer Tour EP ([[2010]])
+* The Only Exception EP ([[2010]])
+* Paramore's Videos. All of Them. Ever ([[2010]])
+
+== Maga enlace externo ==
+* [http://www.paramore.net/  Paramore — Website oficial] (en lengua inglés)
+
+== Maga Referencia ==
+{{commonscat|Paramore}}
+<references/>
+
+{{DEFAULTSORT:Paramore}}
+[[Categoría:Maga banda de musica alternative rock]]
+[[Categoría:Maga banda de musica pop punk]]
