@@ -62,26 +62,115 @@ Divida na 19 departamentos.
 Capital, [[Montevideo ciudad]], superficie , 176220 km².
  
 == Departamentos de Uruguay ==
-
-1 [[Artigas]] 10 [[Montevideo]] 
-
-2 [[Canelones]] 11 [[Paysandú]]
-
-3 [[Cerro Largo]] 12 [[Río Negro]]
-
-4 [[Colonia]] 13 [[Rivera]]
-
-5 [[Durazno]] 14 [[Rocha]]
-
-6 [[Flores]] 15 [[Salto]]
-
-7 [[Florida (Uruguay)|Florida]] 16 [[San José]]
-
-8 [[Maldonado]] 17 [[Soriano]]
-
-9 [[Lavalleja]] 18 [[Tacuarembó]]
-                           
-19 [[Teinta y Tres]]
+{| class="wikitable" cellpadding=0 cellspacing=2 width=600px style="float:center; margin: 0.5em 0.5em 0.5em 1em; padding: 0.5e text-align:left;clear:all; margin-left:3px; font-size:90%"
+|colspan=4 style="background:#black; color:white;" align=center bgcolor="black"|'''Departamentos de Uruguay'''
+|-<!--
+|colspan=4 align=center|{{Etiqueta imagen Uruguay}}-->
+{| class="wikitable sortable" cellpadding=0 cellspacing=2 width=600px style="float:center; margin: 0.5em 0.5em 0.5em 1em; padding: 0.5e text-align:left;clear:all; margin-left:3px"
+| style="background:#e9e9e9;" align=center | '''Departamento'''
+| style="background:#e9e9e9;" align=center | '''Capital'''
+| style="background:#e9e9e9;" align=center | '''Superficie (km²)'''
+| style="background:#e9e9e9;" align="center" | '''Población (censo 2011)'''
+|- bgcolor="#f0f0f0"
+|[[File:Artigas_Department_Coa.png|15px]] [[Artigas]]
+|[[Artigas (ciudad)|Artigas]]
+| align=right | {{formatnum:11928}} [[Kilómetro cuadrado|km²]]
+| align=right | <span style="display:none">0</span>{{formatnum:73378}}
+|-
+|Canelones
+|[[Canelones]]
+| align=right | {{formatnum:4536}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:520187}}
+|- bgcolor="#f0f0f0"
+|Cerro Largo
+|[[Melo]]
+| align=right | {{formatnum:13648}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:84698}}
+|-
+|Colonia
+|[[Colonia del Sacramento]]
+| align=right | {{formatnum:6106}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:123203}}
+|- bgcolor="#f0f0f0"
+|Durazno
+|[[Durazno (Uruguay)|Durazno]]
+| align=right | {{formatnum:11643}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:57088}}
+|-
+|Flores
+|[[Trinidad (Uruguay)|Trinidad]]
+| align=right | {{formatnum:5144}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:25050}}
+|- bgcolor="#f0f0f0"
+|Florida
+|[[Florida (Uruguay)|Florida]]
+| align=right | {{formatnum:10417}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:67048}}
+|-
+|Lavalleja
+|[[Minas]]
+| align=right | {{formatnum:10016}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:58815}}
+|- bgcolor="#f0f0f0"
+|Maldonado
+|[[Maldonado]]
+| align=right | {{formatnum:4793}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:164300}}
+|-
+|Montevideo
+|[[Montevideo]]
+| align=right | {{formatnum:530}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:1319108}}
+|- bgcolor="#f0f0f0"
+|Paysandú
+|[[Paysandú]]
+| align=right | {{formatnum:13922}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:113124}}
+|-
+|Río Negro
+|[[Fray Bentos]]
+| align=right | {{formatnum:9282}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:54765}}
+|- bgcolor="#f0f0f0"
+|Rivera
+|[[Rivera (Uruguay)|Rivera]]
+| align=right | {{formatnum:9370}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:103493}}
+|-
+|Rocha
+|[[Rocha]]
+| align=right | {{formatnum:10551}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:68088}}
+|- bgcolor="#f0f0f0"
+|Salto
+|[[Salto (Uruguay)|Salto]]
+| align=right | {{formatnum:14163}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:124878}}
+|-
+|San José
+|[[San José de Mayo]]
+| align=right | {{formatnum:4992}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:108309}}
+|- bgcolor="#f0f0f0"
+|Soriano
+|[[Mercedes (Uruguay)|Mercedes]]
+| align=right | {{formatnum:9008}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:82595}}
+|-
+|Tacuarembó
+|[[Tacuarembó]]
+| align=right | {{formatnum:15438}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:90053}}
+|- bgcolor="#f0f0f0"
+|Treinta y Tres
+|[[Treinta y Tres (Uruguay)|Treinta y Tres]]
+| align=right | {{formatnum:9529}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:48134}}
+|-
+|colspan="2"|'''Total'''
+| align=right | {{formatnum:175016}} km²
+| align=right | <span style="display:none">0</span>{{formatnum:3286314}}
+|}
 
 == Las principales y mayores ciudades según censo 2004 ==
 
