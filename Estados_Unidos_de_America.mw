@@ -1,5 +1,4 @@
-<!-- {{Ficha de país  --
-{{Infobox Country
+{{Infobox País
 | nombre_oficial =''United States of America''<br />Estados Unidos de América
 | nombre_común = Estados Unidos
 | imagen_bandera = Flag of the United States.svg
@@ -13,10 +12,11 @@
 | capital_coor = 38_53_N_77_02_W 38°53′ N 77°02′ O
 | ciudad_principal = [[Nueva York]]
 | idiomas_oficiales = Ninguno; [[idioma inglés|inglés]] ''de facto''{{Infobox ref|1}}
-| gobierno = [[República federal]]&nbsp;[[Democracia|democrática]] 
-| dirigentes_títulos = [[Presidentes de los Estados Unidos|Presidente]]<br /> [[Vicepresidente de los Estados Unidos|Vicepresidente]] 
-| dirigentes_nombres = [[Barack Obama]]<br />[[Joe Biden]]
-| fundación = [[Independencia]]
+| título_líder1          = [[Presidente de los Estados Unidos|Presidente]]
+| nombre_líder1          = [[Donald Trump]]
+| título_líder2          = [[Vicepresidente de los Estados Unidos|Vicepresidente]]
+| nombre_líder2          = [[Mike Pence]]
+| fundación              = [[Independencia]]
 | fundación_hitos = &nbsp;• Declarada<br /> &nbsp;• [[Tratado de Versalles (1783)|Reconocida]]
 | fundación_fechas = de [[Reino de Gran Bretaña|Gran Bretaña]]<br />[[4 de julio]] de [[1776]]<br />[[3 de septiembre]] de [[1783]]
 | superficie = 9.631.418
@@ -51,7 +51,8 @@
 | matrícula_avión= N
 | miembro_de = [[ONU]], [[OTAN]], [[OEA]], [[APEC]], [[OCDE]], [[OSCE]], [[TLCAN]], [[G-8]]
 | nota1 = El [[idioma inglés|inglés]], [[idioma español|español]], [[Idioma francés|francés]] y el [[Idioma hawaiano|hawaiano]] es reconocidos oficialmente por varios Estados.
-}}  -->
+}}
+
 [[Image:United States Capitol, Washington DC.jpg|thumb|right|250px]]
 El maga  '''Estados Unidos de America''' conocido mas de "Estados Unidos" ta un pais de cinquenta [[Estado]]s que tiene un extencion total de 9&nbsp;529&nbsp;063 [[kilometro quadrate|km²]]. Su [[economia]] ta mas importante del mundo. El presidente ta [[Donald Trump|Donald Trump.]]
 
