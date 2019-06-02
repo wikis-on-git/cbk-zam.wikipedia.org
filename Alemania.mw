@@ -1,15 +1,15 @@
 {{stub}}
-{{Infobox_País | nombre_oficial = ''Bundesrepublik Deutschland''<br />República Federal de Alemania
+{{Infobox País | nombre_oficial = ''Bundesrepublik Deutschland''<br />República Federal de Alemania
 | nombre_común = Alemania
 | de = de
-| imagen_bandera = Flag_of_Germany.svg
+| imagen_bandera = Flag of Germany.svg
 | imagen_escudo = Coat of Arms of Germany.svg
 | imagen_escudo_tamaño = 100px
 | símbolos =
 | imagen_mapa = LocationGermany.svg
 | lema_nacional = ''Einigkeit und Recht und Freiheit'' ([[idioma alemán|alemán]]: ''«Unidad y justicia y libertad»'')
 | himno_nacional = ''[[Das Lied der Deutschen]]''
-| capital = [[Berlín]] 
+| capital = [[Berlín]]
 | capital_población = 3.426.000 ([[2005]])
 | capital_coor_fmt =
 | capital_coor = 52_31_N_13_24_E_ 52°31′ N 13°24′ E
@@ -17,7 +17,7 @@
 | idiomas_oficiales = [[Idioma alemán|Alemán]] {{Infobox ref|1}}
 | gobierno = [[Federación|República federal]] [[parlamentarismo|parlamentaria]]
 | dirigentes_títulos = [[Presidente de Alemania|Presidente de la República]]<br />[[Canciller de Alemania|Cancillera federal]]
-| dirigentes_nombres = <br />[[Frank-Walter Steinmeier]]<br />[[Angela Merkel]] 
+| dirigentes_nombres = <br />[[Frank-Walter Steinmeier]]<br />[[Angela Merkel]]
 | fundación = [[Historia de Alemania|Fundación]]
 | fundación_hitos = Unificación<br />República Federal<br />Reunificación
 | fundación_fechas = <br />[[18 de enero]] de [[1871]]<br />[[23 de mayo]] de [[1949]]<br />[[3 de octubre]] de [[1990]]
@@ -30,7 +30,7 @@
 | población_puesto = 14
 | población_densidad = 242
 | PIB_nominal= US$ 3.045.900 millones
-| PIB_nominal_año = 2006 
+| PIB_nominal_año = 2006
 | PIB_nominal_puesto = 3
 | PIB_nominal_per_cápita = US$ 38.226 (2006)
 | PIB = US$ 2.605.370 millones (est)
@@ -40,7 +40,7 @@
 | IDH = 0,932
 | IDH_año = 2006
 | IDH_puesto = 21
-| IDH_categoría = <font color="#009900">alto</font>
+| IDH_categoría = <span style="color:#009900;">alto</span>
 | moneda = [[Euro]] {{Infobox ref|4}} (€, <code>[[ISO 4217|EUR]]</code>)
 | gentilicio = Alemán, alemana
 | horario = [[CET]] ([[Tiempo Coordinado Universal|UTC]]+1)
@@ -54,8 +54,8 @@
 | nota2 = Según estimaciones de [http://www.destatis.de/presse/deutsch/pm2007/p0030021.htm DESTATIS]
 | nota3 = [[Lista de países por PIB (PPA) per cápita|Puesto 17º]]
 | nota4 = Antes de [[2002]]: [[marco alemán|marco]].
-}}'''Alemania''' es un pais na [[Europa]] central que forma parte de la [[Unión Europea]], 
-limitado al norte con el [[mar del Norte]], [[Dinamarca]] y el [[:tl:Dagat Baltic|mar Báltico]]; al este con [[Polonia]] y [[Chequia]]; al sur con [[Austria]] y [[Suiza]], y al oeste con [[Francia]], [[Luxemburgo]], [[Bélgica]] y los [[Países Bajos]]. Se conoce oficialmente como ''República Federal de Alemania'' (RFA; en alemán, Bundesrepublik Deutschland). Durante la mayor parte de su historia, ya Alemanya ay un termino geografico utilizado para decir un lugar ocupada por varios Estados. Se convirti na un Estado unido durante 74 anyos (1871-1945), pero ya ay dividido al fin de la Segunda Guerra Mundial en la ''República Federal de Alemania'' (RFA, conocida como Alemania Occidental) y la ''[[República Democrática Alemana]]'' (RDA, conocida como Alemania Oriental). El [[3 de octubre]] de [[1990]], pasó a formar parte de la RFA, por lo que Alemania volvió a ser una nación unida. [[Berlín]] es la capital y la ciudad más importante.
+}}'''Alemania''' es un pais na [[Europa]] central que forma parte de la [[Unión Europea]],
+limitado al norte con el [[mar del Norte]], [[Dinamarca]] y el [[:tl:Dagat Baltic|mar Báltico]]; al este con [[Polonia]] y [[Chequia]]; al sur con [[Austria]] y [[Suiza]], y al oeste con [[Francia]], [[Luxemburgo]], [[Bélgica]] y los [[Países Bajos]]. Se conoce oficialmente como ''República Federal de Alemania'' (RFA; en alemán, Bundesrepublik Deutschland). Durante la mayor parte de su historia, ya Alemanya ay un termino geografico utilizado para decir un lugar ocupada por varios Estados. Se convirti na un Estado unido durante 74 anyos (1871–1945), pero ya ay dividido al fin de la Segunda Guerra Mundial en la ''República Federal de Alemania'' (RFA, conocida como Alemania Occidental) y la ''[[República Democrática Alemana]]'' (RDA, conocida como Alemania Oriental). El [[3 de octubre]] de [[1990]], pasó a formar parte de la RFA, por lo que Alemania volvió a ser una nación unida. [[Berlín]] es la capital y la ciudad más importante.
 
 == Historia ==
 ''Artículo principal: [[Historia de Alemania]]''
@@ -84,10 +84,10 @@ La economía alemana es una de las mas solidas y poderosas del mundo, localizada
 
 <TABLE border="1" align="left" cellpadding="6" cellspacing="0">
 <TR><TH style="background:#efefef;">Fecha</TH><TH style="background:#efefef;">Nombre en castellano</TH><TH style="background:#efefef;">Nombre local</TH><TH style="background:#efefef;">Notas</TH></TR>
-<TR><TD></TD></TR>
+<TR></TR>
 </TABLE>
 
-<br /><br /><br />
+<br /><br />
 
 == Ver también ==
 * [[Lista de artículos relacionados con Alemania]]
