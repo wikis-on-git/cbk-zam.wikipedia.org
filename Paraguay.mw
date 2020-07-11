@@ -1,6 +1,220 @@
 {{stub}}
-[[Archivo:Flag of Paraguay.svg|thumb|250px]]
-
+{{Infobox_País 
+| nombre_oficial = República del Paraguay<br />Tetã Paraguái
+| nombre_común = Paraguay
+| imagen_bandera = Flag of Paraguay.svg
+| imagen_escudo = Coat of arms of Paraguay.svg
+| imagen_escudo_tamaño = 120px
+| imagen_mapa = Paraguay_(orthographic_projection).svg
+| lema_nacional = ''Paz y justicia''<br />([[Idioma guaraní]]: Py'aguapy ha tekojoja)<br/>
+| himno_nacional = ''Himno nacional del Paraguay''<br />([[Idioma guaraní]]: Tetã Paraguái Momorãhéia)<br/>
+| capital = [[Asunción]]
+| capital_población = 524 190 hab. ([[2017]])
+| capital_coor = 25 18 00 S 57 38 00 W
+| idiomas_oficiales = [[idioma guaraní|Guaraní]] <br /> [[Idioma Español|Español]]
+| gobierno = [[República Presidencialista]]
+| dirigentes_títulos = [[Presidente]]<br />[[Vicepresidente]]
+| dirigentes_nombres = [[Mario Abdo Benítez]]<br />[[Hugo Velázquez]]
+| fundación = [[Independencia]]
+| fundación_hitos = • De hecho<br />• Declarada<br />• Reconocida
+| fundación_fechas = de [[España]] <br /> [[14 de mayo]] de [[1811]] <br /> [[25 de noviembre]] de [[1842]] <br /> [[10 de septiembre]] de [[1880]]
+| superficie = 406 757
+| superficie_puesto = 60
+| superficie_agua = 2,6 %
+| fronteras = 4 693 km
+| costas = 0 km
+| población = 7 252 672 <small>(2020)</small>
+| población_puesto = 106
+| población_densidad = 17,83
+| PIB_nominal = US$ 42 826 millones
+| PIB_nominal_año = 2020
+| PIB_nominal_puesto = 94
+| PIB_nominal_per_cápita = US$ 5 905
+| PIB = US$ 103 082 millones
+| PIB_año = 2020
+| PIB_puesto = 86
+| PIB_per_cápita = US$ 14 213
+| IDH = 0,730
+| IDH_año = 2020
+| IDH_puesto = 94
+| IDH_categoría = <<font color="#009900">'''Alto'''</font>
+| moneda = [[Guaraní (moneda)|Guaraní]] (₲; [[ISO 4217|PYG]])
+| gentilicio = 	Paraguayo, -a
+| horario = [[UTC]]-4
+| horario_verano = [[UTC]]-3
+| cctld = [[.py]]
+| código_telefónico = 595
+| prefijo_radiofónico = ZPA-ZPZ
+| código_ISO = 600 / PRY / PY
+| miembro_de = [[ONU]], [[OEA]], [[Mercosur]], [[Unión Latina]]
+}}
 '''Paraguay''' es un pais na [[Sudamerica]]. El capitolio en [[Asunción]].
+
+== Departamentos ==
+{| class="wikitable sortable"
+|- 
+! align=center |<small>ISO 3166-2:PY</small>
+! align=center | Departamento
+! align=center | Capital
+! align=center data-sort-type="number" | Población <br><small>(2017)</small><ref>{{cita web|url=http://www.dgeec.gov.py/sub_index/Pobreza/Proyeccion%20Densidad%20Tasa%202012.pdf|título=Proyección Densidad Tasa 2012|autor=STP/DGEEC|editor=|fecha=|fechaacceso=9 de mayo de 2013}}</ref>
+! align=center data-sort-type="number" | Superficie<br> <small>(km²)</small>
+! align=center data-sort-type="number" | Densidad<br> <small>(hab/km²)</small>
+! align=center data-sort-type="number" | Distritos
+|- 
+| PY-ASU
+|''[[Archivo:Flag of Asunción.svg|20px|border]] [[Asunción|Distrito Capital]]''
+|''[[Asunción]]''
+| align=right | 524 190
+| align=right | 117
+| align=right | 4395,4
+| align=right | 1
+|-
+| PY-1
+| [[Archivo:Bandera de concepción.png|Departamento de Concepción|20px|border]] [[Concepción (departamento)|Concepción]]
+| [[Concepción, Paraguay|Concepción]]
+| align=right | 244 071 
+| align=right | 18 051
+| align=right | 10,5
+| align=right | 12
+|- 
+| PY-2
+| [[Archivo:Bandera del Departamento de San Pedro.JPG|Departamento de San Pedro|20px|border]] [[San Pedro (departamento)|San Pedro]]
+| [[San Pedro]]
+| align=right |419 629
+| align=right | 20 002
+| align=right | 18,1
+| align=right | 21
+|-
+| PY-3
+| [[Archivo:Bandera del Departamento de Cordillera.JPG|Departamento de Cordillera|20px|border]] [[Cordillera]]
+| [[Caacupé]]
+| align=right | 299 234
+| align=right | 4 948
+| align=right | 57,8
+| align=right | 20
+|- 
+| PY-4
+| [[Archivo:Flag of Guairá Department.svg|Departamento de Guairá|20px|border]] [[Guairá]]
+| [[Villarrica]]
+| align=right | 220 018
+| align=right | 3 846
+| align=right | 51,6
+| align=right | 18
+|-
+| PY-5
+| [[Archivo:Flag of Caaguazú Department.svg|Departamento de Caaguazú|20px|border]] [[Caaguazú]]
+| [[Coronel Oviedo]]
+| align=right | 545 904
+| align=right | 11 474
+| align=right | 42,2
+| align=right | 22
+|- 
+| PY-6
+| [[Archivo:Bandera del Departamento de Caazapá.png|Departamento de Caazapá|20px|border]] [[Caazapá]]
+| [[Caazapá]]
+| align=right | 184 530
+| align=right | 9 496
+| align=right | 16
+| align=right | 11
+|-
+| PY-7
+| [[Archivo:Itapflag.PNG|Departamento de Itapúa|20px|border]] [[Itapúa]]
+| [[Encarnación]]
+| align=right | 592 017
+| align=right | 16 525
+| align=right | 35,83
+| align=right | 30
+|- 
+| PY-8
+| [[Archivo:Bandera del Departamento de Misiones.JPG|Departamento de Misiones|20px|border]] [[Misiones]]
+| [[San Juan Bautista]]
+| align=right | 148 765
+| align=right | 9 556
+| align=right | 12,92
+| align=right | 10
+|-
+| PY-9
+| [[Archivo:Bandera del Departamento de Paraguarí.JPG|Departamento de Paraguarí|20px|border]] [[Paraguarí]]
+| [[Paraguarí]]
+| align=right | 254 884
+| align=right | 8 705
+| align=right |29,28
+| align=right | 18
+|- 
+| PY-10
+| [[Archivo:Bandera Departamento de Alto Paraná.png|Departamento de Alto Paraná|20px|border]] [[Alto Paraná]]
+| [[Ciudad del Este]]
+| align=right | 785 747
+| align=right | 14 895
+| align=right | 52,75
+| align=right | 22
+|-
+| PY-11
+| [[Archivo:Flag of Central Department, Paraguay.svg|Departamento Central|20px|border]] [[Central]]
+| [[Areguá]]
+| align=right | 2 072 041
+| align=right | 2 465
+| align=right | 840,59
+| align=right | 19
+|- 
+| PY-12
+| [[Archivo:Bandera del Departamento de Ñeembucú.png|Departamento de Ñeembucú|20px|border]] [[Ñeembucú]]
+| [[Pilar, Paraguay|Pilar]]
+| align=right | 88 784
+| align=right | 12 147
+| align=right | 7,31
+| align=right | 16
+|-
+| PY-13
+| [[Archivo:Bandera del Departamento de Amambay.JPG|Departamento de Amambay|20px|border]] [[Amambay]]
+| [[Pedro Juan Caballero]]
+| align=right | 164 462 
+| align=right | 12 933
+| align=right | 12,76
+| align=right | 5
+|- 
+| PY-14
+| [[Archivo:Bandera del Departamento de Canindeyú.png|Departamento de Canindeyú|20px|border]] [[Canindeyú]]
+| [[Salto del Guairá]]
+| align=right | 221 647
+| align=right | 14 667
+| align=right | 15,11
+| align=right | 14
+|-
+| PY-15
+| [[Archivo:Bandera del Departamento de Presidente Hayes.png|Departamento de Presidente Hayes|20px|border]] [[Presidente Hayes]]
+| [[Villa Hayes]]
+| align=right | 121 075
+| align=right | 72 907
+| align=right | 1,66
+| align=right | 8
+|- 
+| PY-16
+|[[Archivo:Bandera de Alto Paraguay.png|Departamento de Boquerón|20px|border]] [[Alto Paraguay]]
+| [[Fuerte Olimpo]]
+| align=right | 17 219
+| align=right | 82 349
+| align=right | 0,21
+| align=right | 4
+|- 
+| PY-17
+|[[Archivo:Bandera de Boquerón.png|Departamento de Alto Paraguay|20px|border]] [[Boquerón]]
+| [[Filadelfia]]
+| align=right | 63 011
+| align=right | 91 669
+| align=right | 0,7
+| align=right | 3
+|-
+| PY
+|'''[[Archivo:Flag of Paraguay.svg|Paraguay|20px|border]] [[Paraguay]]'''
+| '''Asunción'''
+| align=right |'''7 052 983'''
+| align=right |'''406 752'''
+| align=right |'''17,3'''
+| align=right |'''255'''
+|}
+
+== Referencias ==
+<references/>
 
 [[Categoría:Maga Nacion na Sudamerica]]
