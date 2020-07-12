@@ -1,0 +1,116 @@
+{{Infobox settlement
+| name                   = Asunción
+| image                  = Asunción_Paraguay.jpg 
+| image_caption          = Ciudad de Asunción
+| image_flag             = Flag_of_Asunción.svg
+| image_seal             = Escudo de Asunción (Paraguay).svg
+| image_map              = <mapframe frameless align=center width=275 height=250 zoom=12 latitude=-25.2879  longitude=-57.6171 />
+| map_caption            = 
+| pushpin_map            = Paraguay
+| pushpin_label_position = left
+| pushpin_map_caption    = [[Paraguay]]
+| settlement_type        = [[Ciudad]]
+| subdivision_type       = [[Anexo:Maga Nacion del Mundo|Nacion]]
+| subdivision_name       = [[Paraguay]]
+| subdivision_type1      = Depertamento
+| subdivision_name1      = ''Distrito capital''
+| official_name          = La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción
+| nickname               = ''Madre de ciudades''
+| established_title      = Fundado
+| established_date       = 15 de agosto de 1537
+| leader_title           = Intendente Municipal
+| leader_name            = [[Óscar Rodríguez]]
+| government_type        = Capital
+| government_footnotes   = 
+| elevation_footnotes    =
+| elevation_m            = 89
+| elevation_max_footnotes= 
+| elevation_max_m        =
+| area_rank              = 18
+| area_footnotes         = 
+| area_total_km2         = 117
+| population_footnotes   = 
+| population_total       = 521 559
+| population_as_of       = 2020
+| population_density_km2 = auto
+| population_demonym     = Asunceno/a
+| population_rank        = 1
+| population_note        =
+| timezone               = 
+| utc_offset             = -4
+| postal_code_type       = Código postal
+| postal_code            = 1001–1925
+| area_code_type         = Código area
+| area_code              = (+595) 021
+| website                = [http://www.asuncion.gov.py asuncion.gov.py]
+| footnotes              =
+}}
+
+'''Asunción''' es el capital y el ciudad mas grande del nacion [[Paraguay]]. El población es de 521 559 gente y el area metropolitana del ciudad tiene un populacion 2 969 059 gente (2020). Fue fundada en  1537, por [[Juan de Salazar y Espinoza]].<ref>{{cita web|url=http://www.dgeec.gov.py/Publicaciones/Biblioteca/proyeccion%20nacional/Proyeccion%20Distrital.pdf|título=Proyección de la población por sexo y edad, según distrito. Revisión 2015|autor=DGEEC|páginas=32-37|fechaacceso=11 de octubre de 2015|urlarchivo=https://web.archive.org/web/20151016011537/http://www.dgeec.gov.py/Publicaciones/Biblioteca/proyeccion%20nacional/Proyeccion%20Distrital.pdf|fechaarchivo=16 de octubre de 2015}}</ref>
+
+Este ciudad es el centro principal administrativo, financial, comercial y cultural del nacion.
+
+== Demografía ==
+{| class=wikitable
+!Evolución demográfica de Asunción desde 1950
+|- align="center"
+|<timeline>
+Colors=
+  id:lightgrey value:rgb(0.95,0.95,0.99)
+  id:darkgrey value:rgb(0.80,0.70,0.95)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:600 height:260
+PlotArea   = left: 60 bottom: 30 top: 20 right: 20
+DateFormat = x.y
+Period     = from:0 till:600000
+TimeAxis   = orientation:vertical
+AlignBars  = late
+ScaleMajor = gridcolor:lightgrey increment:50000 start:0
+ScaleMinor = gridcolor:lightgrey increment:50000 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+  bar:1950 text:1950
+  bar:1962 text:1962
+  bar:1972 text:1972
+  bar:1982 text:1982
+  bar:1992 text:1992
+  bar:2002 text:2002
+  bar:2012 text:2012
+  bar:2020 text:2020*
+
+PlotData=
+  color:barra width:20 align:center
+  
+  bar:1950 from:0 till: 206634
+  bar:1962 from:0 till: 288882
+  bar:1972 from:0 till: 388958
+  bar:1982 from:0 till: 454881
+  bar:1992 from:0 till: 500938
+  bar:2002 from:0 till: 512112
+  bar:2012 from:0 till: 529433
+  bar:2020 from:0 till: 521559
+
+PlotData=
+  
+  bar:1950 at: 206634 fontsize:S text: 206.634 shift:(0,5)
+  bar:1962 at: 288882 fontsize:S text: 288.882 shift:(0,5)
+  bar:1972 at: 388958 fontsize:S text: 388.958 shift:(0,5)
+  bar:1982 at: 454881 fontsize:S text: 454.881 shift:(0,5)
+  bar:1992 at: 500938 fontsize:S text: 500.938 shift:(0,5)
+  bar:2002 at: 512112 fontsize:S text: 512.112 shift:(0,5)
+  bar:2012 at: 529433 fontsize:S text: 529.433 shift:(0,5)
+  bar:2020 at: 521559 fontsize:S text: 521.559 shift:(0,5)
+</timeline>
+|}
+
+== Referencias ==
+<references/>
+
+== Maga Enlace Externo ==
+* [http://www.asuncion.gov.py asuncion.gov.py] (en lengua español)
+{{commonscat|Asunción}}
+
+[[Categoría:Paraguay]]
