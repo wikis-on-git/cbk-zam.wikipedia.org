@@ -6,9 +6,9 @@ Estos el maga nombre del dia de Jueves na maga otro distinto lenguaje:
 
 <div align="left">
 {| {{tablabonita}}
-| <font color="#000080">'''<u>Idioma</u>'''</font>
-| <font color="#000080">'''<u>Nombre</u>'''</font>
-| <font color="#000080">'''<u>Significado</u>'''</font>
+| <span style="color:#000080">'''<u>Idioma</u>'''</span>
+| <span style="color:#000080">'''<u>Nombre</u>'''</span>
+| <span style="color:#000080">'''<u>Significado</u>'''</span>
 |-
 | Español<br />Catalan<br />Frances<br />Gallego<br />Italiano<br />Rumano
 | ''Jueves''<br />''Dijous''<br />''Jeudi''<br />''Xoves''<br />''Giovedì''<br />''Joi''
