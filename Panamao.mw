@@ -1,19 +1,60 @@
-[[ File:Ph locator sulu old panamao.png |right|270px]] 
+[[File:{{PH wikidata|image_map}}|300px|right]] 
 
-{{Philippine Census			
-| title = Censo de populación <br> Old Panamao, Sulu
-| 1990 = 27189		
-| 1995 = 28549		
-| 2000 = 35906		
-| 2007 = 49903		
-| 2010 = 37933		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}           
-              
-''' Old Panamao ''' el ika kwatro  clase de municipalidad na provincia de [[ Sulu]],  [[Filipinas]]. Tiene este zona de 107.57 kilometro cuadrado y ta loca na segunda distrito. 
-Comporme del 2010 census este tiene papulidad de  37,933  personas. El designada codigo postal 7402.          
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na provincia de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.
+
+==Barangay==
+{| border="0"
+|-----
+| valign="top" |
+* Asin  
+* Bakud
+* Bangday 
+* Baunoh
+* Bitanag 
+* Bud Seit
+* Bulangsi 
+* Datag
+* Kamalig 
+* Kan Asaali
+* Kan Ukol 
+| valign="top" |
+* Kan-Dayok 
+* Kan-Sipat
+* Kawasan 
+* Kulay-kulay
+* Lakit 
+* Lower Patibulan
+* Lunggang 
+* Parang
+* Pugad Manaul 
+* Puhagan
+| valign="top" | 
+* Seit Higad
+* Seit Lake (Pob.) 
+* Su-uh
+* Tabu Manuk 
+* Tandu-tandu
+* Tayungan 
+* Tinah
+* Tubig Gantang 
+* Tubig Jati
+* Upper Patibulan 
+|}
+      
+             
+==Demografía ==
+{{right
+|{{Infobox mapframe|id={{wikidata|label|raw}}|frame-width=300|frame-height=300}}
+}}
+{{Populasyon}}
+== Referencias ==
+{{reflist}}
+
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}        
               
 [[Category:Los municipios del  Sulu ]]
