@@ -1,20 +1,7 @@
-[[ File:Ph locator eastern samar can-avid.png |right|270px]] 
+{{Infobox lokasyon}} 
 
-{{Philippine Census			
-| title = Censo de populación <br> Can-avid, Eastern Samar
-| 1990 = 13254		
-| 1995 = 15759		
-| 2000 = 17228		
-| 2007 = 18173		
-| 2010 = 19785		
-| 2015 = 21015		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}           
-              
-''' Can-avid ''' el ika kwatro  clase de municipalidad na provincia de [[ Eastern Samar]],  [[Filipinas]]. Tiene este zona de 288.7 kilometro cuadrado y ta loca na unico distrito. 
-Comporme del 2015 census este tiene papulidad de  21,015  personas. El designada codigo postal 6806. 
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na provincia de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.
 
 ==Barangay==
 {| border="0"
@@ -49,6 +36,18 @@ Comporme del 2015 census este tiene papulidad de  21,015  personas. El designada
 * Salvacion
 * Solong
 * Rawis
-|}         
+|} 
+
+==Demografía ==
+{{Populasyon}}
+
+== Referencias ==
+{{reflist}}
+
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}        
               
 [[Category:Los municipios del  Eastern Samar ]]
