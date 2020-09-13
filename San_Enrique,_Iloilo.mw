@@ -1,20 +1,7 @@
-{{stub}}
-[[File:Ph locator iloilo san enrique.png |right|270px]]
-{{Philippine Census			
-| title = Censo de populación <br> San Enrique, Iloilo
-| 1990 = 24730		
-| 1995 = 25576		
-| 2000 = 28655		
-| 2007 = 30006		
-| 2010 = 32422		
-| 2015 = 33911		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}            
-              
-''' San Enrique ''' el ika tres  clase de municipalidad na provincia de [[ Iloilo]],  [[Filipinas]]. Tiene este zona de 110.28 kilometro cuadrado y ta loca na ika kuwatro  distrito. 
-Comporme del 2015 census este tiene papulidad de  33,911  personas. El designada codigo postal 5036.
+{{Infobox lokasyon}} 
+
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na provincia de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.
 
 ==Barangay==
 <table border=0><tr>
@@ -49,6 +36,17 @@ Comporme del 2015 census este tiene papulidad de  33,911  personas. El designada
 * San Antonio
 * Tambunac
 </td></tr></table>
-          
+ 
+==Demografía ==
+{{Populasyon}}
+
+== Referencias ==
+{{reflist}}
+
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}         
               
 [[Category:Los municipios del  Iloilo ]]
