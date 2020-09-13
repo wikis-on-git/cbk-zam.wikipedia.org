@@ -1,51 +1,7 @@
-{{Stub}}
+{{Infobox lokasyon}} 
 
-{| align="right" border=1 cellspacing=0 cellpadding=2 style="border: solid 2px #000000; margin-left: 16px"|
-| colspan=3 align="center" style="border-style: none none solid; background: #a0ffa0"|'''Ciudad Isabela''' 
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|País
-| colspan=2 align="right" style="border-style: none none solid solid"|[[Filipinas]]
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Región
-| colspan=2 align="right" style="border-style: none none solid solid"|[[Peninsula de Zamboanga]]
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Área
-| colspan=2 align="right" style="border-style: none none solid solid"|''' 2.050 '''km&sup2;
-|-
-| align="center" style="border-style: none none solid none; background: #f0f0f0"|Maga Gentes
-| colspan=2 align="right" style="border-style: none none solid solid"|'''73,032'''<br /><small> ( ? )</small>
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Densidad Poblacional
-| colspan=2 align="right" style="border-style: none none solid solid"|área= 223.73/km&sup2;
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Alcalde
-| colspan=2 align="right" style="border-style: none none solid solid"|[[Cherrylyn Santos-Akbar]]
-| 
-|-
-| colspan=3 align="center" style="border-style: none none solid; font-size: smaller"|[[Archivo:Ph_locator_basilan_isabela.png]] 
-|-
-| colspan=3 align="center" style="border-style: solid none solid; background: #f0f0f0"| Ayuntamiento
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Districto
-| colspan=3 align="right" style="border-style: none none none solid"|Districto legislativo de Basilan
-| align="right" valign="bottom" style="border-style: none; padding-bottom: 0px"|
-|-
-|
-|-
-| align="center" style="border-style: solid none solid; background: #f0f0f0"|Latitud &<br />longitud
-| colspan=2 align="right" style="border-style: solid none none solid"|'''900'''
-<br />[http://tools.wikimedia.de/~magnus/geo/geohack.php?language=es&params=6_34_50_N_122_2_16_E]
-|-
-| colspan=3 align="center" style="border: none; font-size: smaller"|[[Archivo:{{{MapaCiudad}}}]]
-|-
-| align="center" style="border-style: solid none none; border-width:2px 0px 0px 0px; background: #f0f0f0"|Notas
-| colspan=2 style="border-style: solid none none solid; border-width:2px 0px 0px 1px; font-size: smaller"|{{{Notas}}}&nbsp;
-|}<noinclude>
-</noinclude>
-
-
-'''Ciudad de Isabela''' el ika kwatro na clase  de ciudad na provincia de [[ Basilan]], [[Filipinas]]. Tiene este zona de 223.73 kilometro cuadrado y ta loca na unico distrito. Comporme del 2015 este tiene papulidad de  112,788  personas. El designada zip code 7300 . El ciudad este al nortweste de Basilan. Na cruze [[Basilan Strait]] al norte de [[Ciudad de Zamboanga]].
-
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na provincia de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}. El ciudad este al nortweste de Basilan. Na cruze [[Basilan Strait]] al norte de [[Ciudad de Zamboanga]].
 
 El ciudad tiene el nombre de Isabel reina de España [[Isabel II de España]].
 
@@ -104,9 +60,17 @@ Politiacamente la ciudad de Isabel este ya dividi na 45 [[barangay]]s.
 * Tampalan
 </td></tr></table>
 
-== External links ==
+==Demografía ==
+{{Populasyon}}
 
-* [http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+== Referencias ==
+{{reflist}}
+
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}
 
 {{Basilan}}
 
