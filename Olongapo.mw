@@ -1,12 +1,9 @@
-[[Archivo:Ph locator zambales olongapo.png|right|thumb|Olóngapo City]]
-'''Ciudad de Olóngapo''' en es un primera clase nga [[ciudad]] del [[provincia]] de [[Zambales]], [[Filipinas]].
+{{Infobox lokasyon}} 
 
-El primero clase  de ciudad, tiene este zona de 103.3 kilometro cuadrado y ta loca na primero distrito. <br><br>
-Comporme del 2010 este tiene papulidad de  221,178  personas. El designada zip code 2200 . <br>    
-        
-[[Category: Las ciudades na Filipinas]] 
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na provincia de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.
 
-== Barrios ==
+== Barangay ==
 
 <table border=0><tr>
 <td valign=top>
@@ -30,8 +27,16 @@ Comporme del 2010 este tiene papulidad de  221,178  personas. El designada zip c
 * West Tapinac 
 </td></tr></table>
 
+==Demografía ==
+{{Populasyon}}
 
+== Referencias ==
+{{reflist}}
 
-{{stub}}
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}
 
 [[category:Las ciudades na Filipinas]]
