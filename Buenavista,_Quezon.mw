@@ -1,23 +1,11 @@
-[[Image:Ph_locator_quezon_buenavista.png|right|270px]]
-			
-{{Philippine Census			
-| title = Censo de populación <br> Buenavista, Quezon
-| 1990 = 20060		
-| 1995 = 21376		
-| 2000 = 22840		
-| 2007 = 24798		
-| 2010 = 29053		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+{{Infobox lokasyon}} 
 
-'''Buenavista''' es el cuarta clase [[municipio de Filipinas|municipios]] na el  [[provincia Filipinas|provincia]] de [[provincia Quezon|Quezon]], [[Filipinas]]. segun censo [[2000]] tiene un población de 22,840 personas na 4,391 casas.
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na provincia de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.      
 
-==Barangays==
+==Barangay==
 
-Buenavista esta dividida politicamente na 37 [[barangay]]s.
+Buenavista esta dividida politicamente na 37 barangay
 
 
 {| border="0"
@@ -64,9 +52,17 @@ Buenavista esta dividida politicamente na 37 [[barangay]]s.
 * Villa Veronica
 |}
 
-==External links==
+==Demografía ==
+{{Populasyon}}
 
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+== Referencias ==
+{{reflist}}
+
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}
 
 {{Quezon}}
 
