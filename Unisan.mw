@@ -1,23 +1,10 @@
-{{Stub}}
+{{Infobox lokasyon}} 
 
-[[File:Ph locator quezon unisan.png|right|270px]]
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na provincia de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.
+      
 
-{{Philippine Census			
-| title = Censo de populación <br> Unisan, Quezon
-| 1990 = 19851		
-| 1995 = 21509		
-| 2000 = 21252		
-| 2007 = 23911		
-| 2010 = 25186		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}												
-														
-'''Unisan''' el	ika kwatro clase de municipalidad na probinsya de [[Quezon]], [[Filipinas]]. Tiene este zona de	124.15	kilometro cuadrado y ta loca na ika tres distrito. 
-Comporme del 2010 census este tiene papulidad de 25,186 personas. El designada codigo postal 4305.
-==Barangays== 
+==Barangay== 
 
 <table border=0><tr>
 <td valign=top>
@@ -61,12 +48,18 @@ Comporme del 2010 census este tiene papulidad de 25,186 personas. El designada c
 * Tubigan
 </td></tr></table>
 
-==External links==
+==Demografía ==
+{{Populasyon}}
 
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+== Referencias ==
+{{reflist}}
+
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}
 
 {{Quezon}}
-
-{{coor title dm|13|50|N|121|59|E|region:PH_type:city}}
 
 [[Category:Los municipios del Quezon]]
