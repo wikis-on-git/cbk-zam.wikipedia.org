@@ -1,20 +1,7 @@
-{{Stub}}
-[[Image:Ph_locator_quezon_alabat.png|right|270px|Map of Quezon showing the location of Unisan]]
-			
-{{Philippine Census			
-| title = Censo de populación <br> Alabat, Quezon
-| 1990 = 11785		
-| 1995 = 13787		
-| 2000 = 14204		
-| 2007 = 14789		
-| 2010 = 16120		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}
+{{Infobox lokasyon}} 
 
-'''Alabat''' es maga 5th clase [[Philippine municipios|municipios]] de Las [[Philippine province|province]] de [[Quezon province|Quezon]], [[Philippines]]. De acuerdo con el censo [[2000]] , este tiene una poblacion de 14,204 gentes y 2,989 casas.
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na provincia de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.
 
 ==Barangays==
 
@@ -46,10 +33,17 @@ Alabat esta dividida en 19 [[barangay]]s.
 * Villa Victoria
 |}
 
-==External links==
+==Demografía ==
+{{Populasyon}}
 
-*[http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
-*[http://www.alabat.gov.ph/ Alabat municipality official page]
+== Referencias ==
+{{reflist}}
+
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}
 
 {{Quezon}}
 
