@@ -8,10 +8,13 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 ==Demografía ==
 {{Populasyon}}
 ==Subdivisión política==
-[[Image:Metro manila map.png|thumb|right|288px|Metro Manila]]
-{{columns-list|colwidth=15em|
+{{align|right
+|[[File:Metro Manila in the Philippines.png|298px|right]]
+}}
+{{columns-list|colwidth=5em|
 <ul>{{wikidata|properties|linked|P150|format=<li>%p</li>}}</ul>
 }} 
+
 
 == Referencias ==
 {{reflist}}
