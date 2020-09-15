@@ -1,7 +1,21 @@
-[[File:  Ph_locator_map_bohol.png|right|270px ]]     
-       
-'''{{PAGENAME}}''' el  primero de provincia na region de [[Central Visayas]], [[Filipinas]], tiene este zona de  4,820.95  kilometro cuadrado.  <br> 
-Comporme del 2015 census este tiene papulidad de 1,313,560 personas.  38 es el prefijo telefónico designada.  <br>   
-Su capital es Tagbilaran.     
-       
+{{Infobox lokasyon 2}} 
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na región de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo telefonico {{wikidata|property|P473}} y PSGC {{PH wikidata|PSGC}}. Su capital es {{wikidata|property|P36}}.     
+            
+==Demografía ==
+{{Populasyon}}
+==Subdivisión política==
+{{columns-list|colwidth=15em|
+<ul>{{wikidata|properties|linked|P150|format=<li>%p</li>}}</ul>
+}} 
+
+== Referencias ==
+{{reflist}}
+
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}
+
 [[Category: Las provincias de Filipinas]]
