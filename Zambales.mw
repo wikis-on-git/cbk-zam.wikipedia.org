@@ -1,36 +1,21 @@
-{| align="right" border=1 cellspacing=0 cellpadding=2 style="border: solid 2px #000000; margin-left: 16px"|
-| colspan=3 align="center" style="border-style: none none solid; background: #a0ffa0"|'''Zambales'''<br />'''Provincie lit Zamballe''' 
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Nacion
-| colspan=2 align="right" style="border-style: none none solid solid"|[[Filipinas]]
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Provincia
-| colspan=2 align="right" style="border-style: none none solid solid"|Provincia Zambales
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Region
-| colspan=2 align="right" style="border-style: none none solid solid"|[[Central Luzón]]
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Capital
-| colspan=2 align="right" style="border-style: none none solid solid"|[[Iba, Zambales|Iba]]
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Grandor
-| colspan=2 align="right" style="border-style: none none solid solid"|
-|-
-| align="center" style="border-style: none none solid none; background: #f0f0f0"|Populacion
-| colspan=2 align="right" style="border-style: none none solid solid"|
-|-
-| align="center" style="border-style: none none solid; background: #f0f0f0"|Alcalde
-| colspan=2 align="right" style="border-style: none none solid solid"|[[Amor Deloso]]
-| 
-|-
-| colspan=3 align="center" style="border-style: none none solid; font-size: smaller"|[[Archivo:Ph locator map zambales.png|225px]] 
-|}
+{{Infobox lokasyon 2}} 
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na región de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo telefonico {{wikidata|property|P473}} y PSGC {{PH wikidata|PSGC}}. Su capital es {{wikidata|property|P36}}.     
+            
+==Demografía ==
+{{Populasyon}}
+==Subdivisión política==
+{{columns-list|colwidth=15em|
+<ul>{{wikidata|properties|linked|P150|format=<li>%p</li>}}</ul>
+}} 
 
+== Referencias ==
+{{reflist}}
 
-[[File:  Ph_locator_map_zambales.png|right|270px ]]     
-       
-'''{{PAGENAME}}''' el  segunda de provincia na region de [[Central Luzon]], [[Filipinas]], tiene este zona de  3,830.83  kilometro cuadrado.  <br> 
-Comporme del 2015 census este tiene papulidad de 590,848 personas.  47 es el prefijo telefónico designada.  <br>   
-Su capital es Iba.     
-       
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}
+
 [[Category: Las provincias de Filipinas]]
