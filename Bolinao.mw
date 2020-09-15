@@ -1,26 +1,11 @@
-[[ File:Ph locator pangasinan bolinao.png |right|270px]] 
+{{Infobox lokasyon}} 
 
-{{Philippine Census			
-| title = Censo de populación <br> Bolinao, Pangasinan
-| 1990 = 49202		
-| 1995 = 53127		
-| 2000 = 61068		
-| 2007 = 69568		
-| 2010 = 74545		
-| 2015 = 		
-| 2020 = 		
-| 2025 = 		
-| 2030 = 		
-|}}           
-              
-''' Bolinao ''' el primero clase de municipalidad na provincia de [[ Pangasinan]],  [[Filipinas]]. Tiene este zona de 197.22 kilometro cuadrado y ta loca na primero distrito. 
-Comporme del 2010 census este tiene papulidad de  74,545  personas. El designada codigo postal 2406.          
-              
-
+'''{{wikidata|label}}''' {{wikidata|property|P1879}} na provincia de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.
 
 ==Dagiti barangay==
 
-Bolinao es un migay sa 30 na [[barangay]].
+Bolinao es un migay sa 30 na barangay.
 
 {| border=0
 | valign=top |
@@ -57,8 +42,18 @@ Bolinao es un migay sa 30 na [[barangay]].
 * Zaragoza
 |}
 
+==Demografía ==
+{{Populasyon}}
 
-{{philippines-geo-stub}}
+== Referencias ==
+{{reflist}}
+
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}
+
 {{Pangasinan}}
 
 
