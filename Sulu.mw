@@ -5,10 +5,12 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 ==Demografía ==
 {{Populasyon}}
 ==Subdivisión política==
-{{columns-list|colwidth=15em|
+{{align|right
+|[[File:Ph fil sulu.png|298px|right]]
+}}
+{{columns-list|colwidth=10em|
 <ul>{{wikidata|properties|linked|P150|format=<li>%p</li>}}</ul>
 }} 
-
 == Referencias ==
 {{reflist}}
 
