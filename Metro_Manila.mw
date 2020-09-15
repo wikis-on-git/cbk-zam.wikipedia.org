@@ -1,4 +1,25 @@
-[[Image:Metro manila map.png|thumb|right|240px|Metro Manila]]
+{{Infobox lokasyon 2}} 
+
 El Metro Manila es un Region Nacional Capital de las [[Filipinas]] (Na [[Ingles]]: National Capital Region y na [[Tagalog]]: Pambansang Rehiyong Kapital) y el designacion official del gobierno Filipino que tiene 17 maga ciudades del region metropolitan de [[Manila]] y el maga alreredor ciudad de [[Caloocan]], [[Quezon]], [[Pasay]] y maga otros pa. Del año [[2005]], el Metro Manila es el centro politico, economico, cultural y industrial del entero nacion y maga mas o menos 11 milliones de maga residente.
 
-[[Category:Las Filipinas]]
+{{wikidata|label}} {{wikidata|property|P1879}} na región de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
+Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada PSGC {{PH wikidata|PSGC}}. Su capital es {{wikidata|property|P36}}.      
+            
+==Demografía ==
+{{Populasyon}}
+==Subdivisión política==
+[[Image:Metro manila map.png|thumb|right|288px|Metro Manila]]
+{{columns-list|colwidth=15em|
+<ul>{{wikidata|properties|linked|P150|format=<li>%p</li>}}</ul>
+}} 
+
+== Referencias ==
+{{reflist}}
+
+==Enlaces externos==
+* [https://www.philatlas.com/ PhilAtlas.com]
+* [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
+* [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
+*{{PH wikidata|website}}
+
+[[Category: Las regiones de Filipinas]]
