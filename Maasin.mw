@@ -4,8 +4,7 @@
 Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.
       
 ==Barangay==
-<table border=0><tr>
-<td valign=top>
+{{columns-list|colwidth=12em|
 * Abgao (Pob.)
 * Asuncion
 * Bactul II
@@ -30,7 +29,6 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 * Gawisan
 * Guadalupe
 * Hanginan
-</td><td valign=top>
 * Hantag
 * Hinapu Daku
 * Hinapu Gamay
@@ -54,7 +52,6 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 * Nonok Norte
 * Nonok Sur
 * Panan-awan
-</td><td valign=top>
 * Pansaan
 * Pinascohan
 * Rizal
@@ -78,8 +75,8 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 * Lib-og
 * Pasay
 * San Agustin
-</td></tr></table>
-             
+}}
+
 ==Demografía ==
 {{Populasyon}}
 
