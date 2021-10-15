@@ -41,7 +41,7 @@
 | IDH = 0.956
 | IDH_año = 2006
 | IDH_puesto = 16
-| IDH_categoría = <font color="#009900">alto</font>
+| IDH_categoría = <span style="color:#009900;">alto</span>
 | moneda = [[Real]] (R$, <code>[[ISO 4217|BRL]]</code>)
 | gentilicio = Brasileño, -a; brasilero, -a
 | horario = [[Tiempo Universal Coordinado|UTC]]-5 a -2, siendo el   horario oficial el [[Tiempo Universal Coordinado|UTC]]-3 
