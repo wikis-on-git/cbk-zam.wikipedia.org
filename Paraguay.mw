@@ -37,7 +37,7 @@
 | IDH = 0,730
 | IDH_año = 2020
 | IDH_puesto = 94
-| IDH_categoría = <<font color="#009900">'''Alto'''</font>
+| IDH_categoría = <<span style="color:#009900;">'''Alto'''</span>
 | moneda = [[Guaraní (moneda)|Guaraní]] (₲; [[ISO 4217|PYG]])
 | gentilicio = 	Paraguayo, -a
 | horario = [[UTC]]-4
