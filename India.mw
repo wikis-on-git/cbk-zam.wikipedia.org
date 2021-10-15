@@ -40,7 +40,7 @@
 | IDH = 0.602
 | IDH_año = 2003
 | IDH_puesto = 127
-| IDH_categoría = <font color="ffcc00">medio</font>
+| IDH_categoría = <span style="color:#ffcc00;">medio</span>
 | moneda = [[Rupia]] ([[ISO 4217|INR]])= 100 paisa
 | gentilicio = indio
 | horario = [[UTC]] + 5:30
