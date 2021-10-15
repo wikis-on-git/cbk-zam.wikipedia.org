@@ -39,10 +39,10 @@
 | IDH                    = {{creciente}} 0,783<ref name="IDH">{{cita web|autor=PNUD| url= http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf  | título= "Informe sobre Desarrollo Humano 2011" |editor= hdr.undp.org |ubicación= [[Washington D.C.|Washington]], [[Estados Unidos]]|año = 3 de noviembre de 2011|idioma = español | fechaacceso= 03/11/11|formato= PDF}}</ref>
 | IDH_año                = 2011
 | IDH_puesto             = 48
-| IDH_categoría          = <font color="#009900">'''Alto'''</font> 
-| GINI                   = 42.4 ([[2009]])<ref name = "wb-gini">{{Cita web | url = http://data.worldbank.org/indicator/SI.POV.GINI/countries/UY?display=graph | title = Gini Index |autor= |fecha= |work= |editorial=World Bank |fechaacceso=2 March 2011}}</ref>
+| IDH_categoría          = <span style="color:#009900;">'''Alto'''</span>
+| GINI                   = 42.4 ([[2009]])<ref name="wb-gini">{{Cita web | url = http://data.worldbank.org/indicator/SI.POV.GINI/countries/UY?display=graph | title = Gini Index |autor= |fecha= |work= |editorial=World Bank |fechaacceso=2 March 2011}}</ref>
 | moneda                 = [[Peso uruguayo|Peso]] ($, <code>[[ISO 4217|UYU]]</code>)
-| gentilicio             = uruguayo/a - oriental
+| gentilicio             = uruguayo/a – oriental
 | horario                = [[UTC]]-3
 | horario_verano         = [[UTC]]-2
 | cctld                  = [[.uy]]
