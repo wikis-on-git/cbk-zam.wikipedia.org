@@ -35,7 +35,7 @@
 | IDH = 0.547
 | IDH_año = 2003
 | IDH_puesto = 132
-| IDH_categoría = <font color="#ffcc00">medio</font>
+| IDH_categoría = <span style="color:#ffcc00;">medio</span>
 | moneda = [[Franco comorano]] (<code>[[ISO 4217|KMF]]</code>)
 | gentilicio = Comorano, comorana
 | horario = [[Tiempo Coordinado Universal|UTC]]+3
