@@ -42,7 +42,7 @@
 | IDH = 0,884
 | IDH_año = 2011
 | IDH_puesto = 20
-| IDH_categoría = <font color="#009900">'''Muy alto'''</font>
+| IDH_categoría = <span style="color:#009900;">'''Muy alto'''</span>
 | moneda = [[Euro]]<sup>4</sup> (€, <code>[[ISO 4217|EUR]]</code>)
 | gentilicio = Francés, francesa
 | horario = [[CET]] ([[Tiempo Coordinado Universal|UTC]]+1)<sup>5</sup>
