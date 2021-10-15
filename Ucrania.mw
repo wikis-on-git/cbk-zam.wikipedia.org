@@ -39,7 +39,7 @@
 | IDH = 0,774
 | IDH_año = 2006
 | IDH_puesto = 77
-| IDH_categoría = <font color="#ffcc00">medio</font>
+| IDH_categoría = <span style="color:#ffcc00;">medio</span>
 | moneda = [[Hryvnia]] ([[ISO 4217|UAH]])
 | gentilicio = Ucraniano, ucraniana, ucranio, ucrania
 | horario = [[EET]]
