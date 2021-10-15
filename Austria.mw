@@ -43,7 +43,7 @@
 | IDH = 0,851
 | IDH_año = 2010
 | IDH_puesto = 25
-| IDH_categoría = <font color="#009900">'''Muy Alto'''</font>
+| IDH_categoría = <span style="color:#009900;">'''Muy Alto'''</span>
 | moneda = [[Euro]] {{ref de ficha|2}} (€, <code>[[ISO 4217|EUR]]</code>)
 | gentilicio = Austriaco/a, austríaco/a
 | horario = [[CEST]] ([[Tiempo Coordinado Universal|UTC]]+1)
