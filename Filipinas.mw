@@ -39,7 +39,7 @@
 | IDH = 0,763
 | IDH_año = 2006
 | IDH_puesto = 84
-| IDH_categoría = <font color="#ffcc00">medio</font>
+| IDH_categoría = <span style="color:#ffcc00;">medio</span>
 | moneda = [[Peso filipino]] ([[ISO 4217|PHP]])
 | gentilicio_Chavacano_Formal = Filipino (los hombres y las mujeres), Filipina (las mujeres)
 | gentilicio_Chavacano_Comun = Filipino (maga/mana hombre y maga/mana mujer), Filipina (maga mujer)
