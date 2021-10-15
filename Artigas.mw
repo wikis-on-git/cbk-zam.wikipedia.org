@@ -23,7 +23,7 @@
 | IDH = 0,809
 | IDH_año = 2005
 | IDH_puesto = 16
-| IDH_categoría = <font color="#009900">alto</font>
+| IDH_categoría = <span style="color:#009900;">alto</span>
 | gentilicio = Artiguense
 | código_ISO = UY-AR
 }}
