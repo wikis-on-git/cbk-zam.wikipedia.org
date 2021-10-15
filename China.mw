@@ -40,7 +40,7 @@
 | IDH = 0,768
 | IDH_año = 2006
 | IDH_puesto = 81
-| IDH_categoría = <font color="#ffcc00">medio</font>
+| IDH_categoría = <span style="color:#ffcc00;">medio</span>
 | moneda = [[Renminbi]]<sup>[2]</sup> (元, <code>[[ISO 4217|CNY]]</code>)
 | gentilicio = Chino, -na 
 | horario = [[Tiempo Coordinado Universal|UTC]] +8
