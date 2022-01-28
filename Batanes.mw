@@ -1,13 +1,9 @@
 {{Infobox lokasyon 2}} 
-[[File:Batanes Island.jpg|thumb|right|Isla de Batanes]]
 '''{{wikidata|label}}''' {{wikidata|property|P1879}} na región de [[{{wikidata|property|P131}}]], [[{{PH wikidata|country}}]]. Tiene este zona de {{wikidata|property|P2046}} kilometro cuadrado. 
 Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo telefonico {{wikidata|property|P473}} y PSGC {{PH wikidata|PSGC}}. Su capital es {{wikidata|property|P36}}.     
             
 ==Demografía ==
 {{Populasyon}}
-{{align|right
-|[[File:Ph fil batanes.png|298px|right]]
-}}
 ==Subdivisión política==
 {{align|right
 |[[File:Ph fil batanes.png|298px|right]]
@@ -15,7 +11,7 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 {{columns-list|colwidth=15em|
 <ul>{{wikidata|properties|linked|P150|format=<li>%p</li>}}</ul>
 }} 
-
+[[File:Batanes Island.jpg|thumb|right|Isla de Batanes]]
 == Referencias ==
 {{reflist}}
 
@@ -24,5 +20,7 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 * [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 * [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
 *{{PH wikidata|website}}
+
+{{Batanes}}
 
 [[Category: Las provincias de Filipinas]]
