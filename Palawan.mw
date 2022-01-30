@@ -63,33 +63,9 @@ Palawan está subdividida en 23 municipios, que a su vez se dividen en 432 [[bar
 {{align|right
 |[[File:Ph fil palawan.png|380px|right]]
 }}
-<table border="0"><tr>
-<td valign="top">
-* [[Aborlan, Palawan|Aborlan]]
-* [[Agutaya, Palawan|Agutaya]]
-* [[Araceli, Palawan|Araceli]] 
-* [[Balábac, Palawan|Balábac]]
-* [[Bataraza, Palawan|Bataraza]] 
-* [[Brooke’s Point, Palawan|Brooke´s Point]]
-* [[Busuanga, Palawan|Busuanga]] 
-* [[Cagayancillo, Palawan|Cagayancillo]]
-* [[Coron, Palawan|Coron]]
-* [[Culion, Palawan|Culion]]
-* [[Cuyo, Palawan|Cuyo]]
-* [[Dumaran, Palawan|Dumaran]]
-</td><td valign="top">
-* [[El Nido, Palawan|El Nido]]
-* [[Kalayaan, Palawan|Kalayaan]]
-* [[Linapacan, Palawan|Linapacan]]
-* [[Magsaysay, Palawan|Magsaysay]]
-* [[Narra, Palawan|Narra]]
-* [[Quezon, Palawan|Quezon]]
-* [[Rizal, Palawan|Rizal]]
-* [[Roxas, Palawan|Roxas]]
-* [[San Vicente, Palawan|San Vicente]]
-* [[Sofronio Española, Palawan|Sofronio Española]]
-* [[Taytay, Palawan|Taytay]]
-</td></tr></table>
+{{columns-list|colwidth=10em|
+<ul>{{wikidata|properties|linked|P150|format=<li>%p</li>}}</ul>
+}}
 
 Actualmente, el gobierno de [[Filipinas]] considera a las [[Islas Spratly]], conocidas en la zona como el Grupo de Islas de Kalayaan, bajo su jurisdicción. Las islas se encuentran en el [[Mar de la China Meridional]]. Sin embargo, [[China]], [[Taiwán]], [[Vietnam]], [[Brunei]] y [[Malasia]] también reclaman la posesión de estas islas, o de parte de ellas.
 
@@ -105,8 +81,8 @@ La religión predominante de la pronvicia es la musulmana, sobre todo en los mun
 * [https://web.archive.org/web/20120413163013/http://www.nscb.gov.ph/activestats/psgc/default.asp Philippine Standard Geographic Code]
 * [https://web.archive.org/web/20161010201809/http://www.blgs.gov.ph/lgpmsv2/cmshome/index.php?pageID=23 Local Governance Performance Management System]
 *{{PH wikidata|website}}
-
-[[Category: Las provincias de Filipinas]] 
 {{commons|Palawan}}
 
-[[Category: Las provincias de Filipinas]]
+{{Palawan}}
+
+[[Categoría: Las provincias de Filipinas]]
