@@ -4,6 +4,7 @@
 Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.
       
 ==Maga barangay==
+{{columns-list|colwidth=18em|
 * Albalate  
 * Bagongon  
 * Bangon  
@@ -23,7 +24,6 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 * Darahuway Guti  
 * Estaka
 * Guindapunan 
-</td><td valign="top">
 * Guinsorongan 
 * Ibol 
 * Iguid  
@@ -62,6 +62,7 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 * Silanga 
 * Socorro  
 * Totoringon
+}}
              
 == Demografía ==
 {{Populasyon}}
