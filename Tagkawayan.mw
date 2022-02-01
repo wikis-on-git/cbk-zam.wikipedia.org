@@ -4,6 +4,9 @@
 Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad de {{wikidata|property|P1082}} personas y {{wikidata|property|P1538}} hogares. El designada codigo postal {{wikidata|property|P281}} y PSGC {{PH wikidata|PSGC}}.										
 
 == Maga barangay==
+{| border="0"
+|-----
+| valign="top" |
 * Aldavoc
 * Aliji
 * Bagong Silang
@@ -19,6 +22,7 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 * Candalapdap
 * Katimo
 * Kinatakutan
+| valign="top" |
 * Landing
 * Laurel
 * Magsaysay
@@ -34,7 +38,7 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 * Payapa
 * Poblacion
 * Rizal
-</td><td valign=top>
+| valign="top" |
 * Sabang
 * San Diego
 * San Francisco
@@ -50,6 +54,7 @@ Comporme del {{wikidata|qualifier|single|P1082|P585}} censo este tiene papulidad
 * Tabason
 * Tunton
 * Victoria
+|}
 
 == Demografía ==
 {{Populasyon}}
